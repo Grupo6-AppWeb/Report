@@ -6,9 +6,9 @@
 ![LogoUpc](images/upcLogo.png)
 
   <p align="center">
-    Ingeniería de Software - 202402
+    Ingeniería de Software - 202502
     <br />
-    SV54 - Desarrollo de Aplicaciones Open Source
+   7429 - Aplicaciones Web
     <br />
     Villafuerte Bazan, Oscar Ivan
     <br />
@@ -41,8 +41,8 @@
             <td></td>
         </tr>
         <tr> 
-            <td></td>
-            <td></td>
+            <td>Curi Marcelo, Angelo Marcio</td>
+            <td>u202022387</td>
         </tr>
     </table>
 
