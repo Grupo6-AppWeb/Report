@@ -284,7 +284,7 @@ En esta sección se presenta la descripción del startup y los perfiles de los m
 ### [5.1.4.	Software Deployment Configuration.](#software-deployment-configuration)
 
 ## [5.2.	Landing Page, Services & Applications Implementation.](#landing-page-services--applications-implementation)
-### [5.2.1.	Sprint 1](#521-sprint-1)
+### [5.2.1. Sprint 1.](#521-sprint-1)
 ### [5.2.1.1.	Sprint Planning 1.](#5211-sprint-planning-1)
 ### 5.2.1.2.	Sprint Backlog 1.
 ### [5.2.1.3.	Development Evidence for Sprint Review.](#5213-development-evidence-for-sprint-review)
