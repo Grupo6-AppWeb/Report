@@ -25,8 +25,8 @@
             <th>Codigo</th>
         </tr>
         <tr> 
-            <td>Armas Sánchez, Oscar Javier</td>
-            <td>U20211G192</td>
+            <td></td>
+            <td></td>
         </tr>
         <tr> 
             <td></td>
