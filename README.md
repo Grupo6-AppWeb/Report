@@ -37,8 +37,8 @@
             <td></td>
         </tr>
         <tr> 
-            <td></td>
-            <td></td>
+            <td>Velarde Gonzales, Néstor Hernán</td>
+            <td>u20211c221</td>
         </tr>
         <tr> 
             <td>Curi Marcelo, Angelo Marcio</td>
