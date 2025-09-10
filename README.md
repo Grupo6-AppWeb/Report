@@ -221,33 +221,43 @@ Valores
 En Hostel Manager, creemos que la transformación digital de la hospitalidad debe ir acompañada de principios sólidos que garanticen un desarrollo tecnológico ético, inclusivo y orientado al impacto real. Estos valores guían nuestras decisiones estratégicas y nuestro compromiso con clientes, colaboradores y comunidades.
 
 Accesibilidad
+
 Diseñamos soluciones que cualquier persona pueda utilizar, sin requerir conocimientos técnicos avanzados. Nuestra interfaz intuitiva permite que administradores, recepcionistas y propietarios operen el sistema con facilidad desde el primer día.
 
 Escalabilidad
+
 Nuestra plataforma está pensada para crecer junto a cada negocio, permitiendo a pequeños hostales o grandes hoteles gestionar sus operaciones de forma eficiente, sin necesidad de migrar a otros sistemas a medida que evolucionan.
 
 Conectividad
+
 Facilitamos la integración con canales de reserva externos, herramientas de comunicación y sistemas de pago, permitiendo una gestión moderna, centralizada y eficiente.
 
 Eficiencia Operativa
+
 Optimizamos recursos y procesos a través de automatizaciones, reportes dinámicos y funciones personalizables que reducen errores, minimizan tareas repetitivas y mejoran la toma de decisiones.
 
 Transparencia
+
 Nos regimos por prácticas claras y honestas en todos nuestros procesos. Desde los términos de nuestra suscripción hasta el uso de los datos y el soporte técnico, promovemos relaciones de confianza con nuestros clientes.
 
 Innovación
+
 Estamos en constante evolución. Escuchamos activamente a nuestros usuarios para desarrollar nuevas funcionalidades que resuelvan problemas reales del sector hotelero, integrando tecnología de vanguardia en soluciones prácticas.
 
 Sostenibilidad
+
 Contribuimos a un turismo más responsable mediante herramientas que reducen el desperdicio de recursos, optimizan la planificación del personal y promueven una gestión más consciente de los servicios y consumos.
 
 Educación y Capacitación
+
 Fomentamos el aprendizaje continuo de nuestros usuarios mediante tutoriales, guías y soporte especializado, ayudándoles a sacar el máximo provecho de la plataforma y fortalecer sus habilidades en gestión hotelera.
 
 Ética y Privacidad
+
 Respetamos la privacidad de nuestros usuarios y la seguridad de su información. Aplicamos altos estándares de protección de datos y promovemos prácticas justas y responsables en cada desarrollo.
 
 Trabajo Colaborativo
+
 Creemos en la fuerza del equipo. Nuestra cultura se basa en la colaboración interdisciplinaria, tanto dentro de nuestra organización como con nuestros clientes, para co-crear soluciones que generen verdadero valor.
 
 ## [1.2 Solution Profile](#solution-profile)
@@ -256,15 +266,15 @@ En Hostel Manager nos dedicamos a diseñar soluciones tecnológicas modernas y a
 
 Nuestra solución integra funcionalidades clave que permiten:
 
-Gestión en tiempo real de reservas y disponibilidad, evitando sobreventas y errores en la asignación de habitaciones o servicios.
+- Gestión en tiempo real de reservas y disponibilidad, evitando sobreventas y errores en la asignación de habitaciones o servicios.
 
-Control centralizado de pagos y emisión automática de comprobantes, con integración a pasarelas seguras para pagos online y registro de pagos presenciales.
+- Control centralizado de pagos y emisión automática de comprobantes, con integración a pasarelas seguras para pagos online y registro de pagos presenciales.
 
-Módulo de opiniones y calificaciones, que promueve la retroalimentación directa y mejora continua de la experiencia del huésped.
+- Módulo de opiniones y calificaciones, que promueve la retroalimentación directa y mejora continua de la experiencia del huésped.
 
-Reportes dinámicos y personalizados que ofrecen información detallada sobre ocupación, ingresos, desempeño del personal y utilización de servicios.
+- Reportes dinámicos y personalizados que ofrecen información detallada sobre ocupación, ingresos, desempeño del personal y utilización de servicios.
 
-Configuración flexible de promociones y paquetes turísticos, para atraer clientes con ofertas atractivas y aumentar la rentabilidad.
+- Configuración flexible de promociones y paquetes turísticos, para atraer clientes con ofertas atractivas y aumentar la rentabilidad.
 
 La plataforma está desarrollada con tecnologías web modernas que garantizan una experiencia intuitiva, segura y responsiva, accesible desde cualquier dispositivo con conexión a internet. Además, cuenta con funcionalidades para la gestión multicanal, integrándose con portales externos de reserva y sistemas de comunicación para notificaciones automáticas por correo o WhatsApp.
 
