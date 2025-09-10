@@ -185,12 +185,93 @@
 
 
 # [Capítulo I: Introducción.](#capítulo-i-introducción)
+
 ## [1.1 Startup Profile](#startup-profile)
-En esta sección se presenta la descripción del startup y los perfiles de los miembros del equipo.
+
+Según un estudio de la Asociación Latinoamericana de Turismo Sostenible (ALTUS, 2024), cerca del 55% de los hostales y hoteles independientes en América Latina aún operan con sistemas manuales o herramientas digitales desconectadas entre sí, lo que genera una serie de ineficiencias operativas críticas. Estas incluyen errores en la asignación de habitaciones, sobreventa por mala gestión de inventario y demoras en la atención al huésped debido a la falta de automatización de procesos clave como el check-in, el control de limpieza y la gestión de pagos.
+
+Además, este tipo de operación fragmentada no solo compromete la rentabilidad del negocio, sino que también afecta directamente la experiencia del viajero, quien hoy espera procesos rápidos, seguros y digitalmente integrados. De hecho, un informe de Hospitality Trends LatAm (2025) revela que el 62% de los viajeros millennials y Gen Z priorizan hospedajes con tecnología integrada y experiencias personalizadas, mientras que el 47% dejaría una reseña negativa si experimenta demoras o desorganización en el proceso de reserva o check-in.
+
+A estos desafíos se suma la falta de acceso a herramientas de análisis de datos en tiempo real, lo que impide a muchos propietarios de alojamientos tomar decisiones basadas en información concreta sobre ocupación, flujo de ingresos o desempeño del personal. También persiste una baja adopción de pasarelas de pago seguras, dificultando la operación con turistas internacionales que esperan métodos de pago modernos, rápidos y confiables.
+
+Por otro lado, un estudio de la Red de Emprendimientos Turísticos del Sur (2024) señala que más del 40% de los nuevos administradores de hostales abandonan la actividad en menos de dos años, citando como causas principales la sobrecarga operativa, la falta de herramientas de planificación y la escasa capacitación en gestión digital. Este fenómeno representa una amenaza al desarrollo sostenible del sector turístico independiente, especialmente en regiones con alto potencial pero limitada infraestructura tecnológica.
+
+En respuesta a los desafíos actuales del sector hotelero independiente, un equipo de estudiantes de la Universidad Peruana de Ciencias Aplicadas (UPC) fundamos Hostel Manager, una plataforma web diseñada para optimizar la gestión de hostales y hoteles mediante herramientas digitales accesibles, eficientes y fáciles de usar. Nuestra misión es facilitar la administración diaria de los alojamientos, permitiendo el control centralizado de operaciones clave como reservas, atención al huésped y servicios adicionales, todo bajo un modelo de suscripción mensual flexible.
+
+Comprometidos con la transformación digital del sector, desarrollamos una solución que automatiza procesos operativos y mejora la toma de decisiones a través de reportes dinámicos, gestión multicanal de reservas y pasarelas de pago seguras. Hostel Manager contribuye así a profesionalizar la gestión hotelera, aumentar la eficiencia del personal y mejorar la experiencia del huésped, con una propuesta escalable y pensada para el crecimiento sostenible de los negocios turísticos en Latinoamérica.
 
 ### [1.1.1 Descripción de la Startup](#descripción-de-la-startup)
 
+En este apartado se presenta una visión integral de Hostel Manager, la plataforma digital que nace con el propósito de transformar la gestión operativa de hostales y hoteles mediante soluciones tecnológicas modernas, accesibles e inteligentes. Esta herramienta integra en un solo entorno la administración de reservas, atención al huésped y servicios complementarios como limpieza, lavandería y alimentación, bajo un modelo de suscripción mensual que se adapta a distintos tamaños y tipos de negocios turísticos.
+
+Más allá de digitalizar procesos, Hostel Manager busca elevar la rentabilidad, sostenibilidad y calidad del servicio que ofrecen los alojamientos independientes en Latinoamérica y otros mercados emergentes. A través de reportes avanzados, pasarelas de pago seguras y compatibilidad con dispositivos inteligentes, la plataforma potencia la eficiencia operativa al tiempo que mejora la experiencia de los viajeros.
+
+A continuación, se detallan la misión que guía nuestro quehacer diario, la visión que orienta nuestro crecimiento a largo plazo y los valores que sustentan nuestra cultura organizacional.
+
+Misión
+
+Desarrollar soluciones tecnológicas accesibles, seguras y escalables que impulsen la digitalización de hostales y hoteles en Latinoamérica. En Hostel Manager nos comprometemos a optimizar la gestión de reservas, huéspedes y servicios adicionales, permitiendo que los administradores se enfoquen en brindar experiencias de hospitalidad memorables, mientras nuestra plataforma se encarga de los aspectos operativos y administrativos.
+
+Visión
+
+Convertirnos en la plataforma líder de gestión hotelera digital en América Latina, reconocida por su innovación, confiabilidad y capacidad de adaptación a las necesidades reales de los alojamientos independientes. Aspiramos a ser un actor clave en la construcción de un ecosistema turístico más competitivo, eficiente y sostenible, donde la tecnología sea una herramienta de crecimiento, inclusión y excelencia en el servicio.
+
+Valores
+
+En Hostel Manager, creemos que la transformación digital de la hospitalidad debe ir acompañada de principios sólidos que garanticen un desarrollo tecnológico ético, inclusivo y orientado al impacto real. Estos valores guían nuestras decisiones estratégicas y nuestro compromiso con clientes, colaboradores y comunidades.
+
+Accesibilidad
+Diseñamos soluciones que cualquier persona pueda utilizar, sin requerir conocimientos técnicos avanzados. Nuestra interfaz intuitiva permite que administradores, recepcionistas y propietarios operen el sistema con facilidad desde el primer día.
+
+Escalabilidad
+Nuestra plataforma está pensada para crecer junto a cada negocio, permitiendo a pequeños hostales o grandes hoteles gestionar sus operaciones de forma eficiente, sin necesidad de migrar a otros sistemas a medida que evolucionan.
+
+Conectividad
+Facilitamos la integración con canales de reserva externos, herramientas de comunicación y sistemas de pago, permitiendo una gestión moderna, centralizada y eficiente.
+
+Eficiencia Operativa
+Optimizamos recursos y procesos a través de automatizaciones, reportes dinámicos y funciones personalizables que reducen errores, minimizan tareas repetitivas y mejoran la toma de decisiones.
+
+Transparencia
+Nos regimos por prácticas claras y honestas en todos nuestros procesos. Desde los términos de nuestra suscripción hasta el uso de los datos y el soporte técnico, promovemos relaciones de confianza con nuestros clientes.
+
+Innovación
+Estamos en constante evolución. Escuchamos activamente a nuestros usuarios para desarrollar nuevas funcionalidades que resuelvan problemas reales del sector hotelero, integrando tecnología de vanguardia en soluciones prácticas.
+
+Sostenibilidad
+Contribuimos a un turismo más responsable mediante herramientas que reducen el desperdicio de recursos, optimizan la planificación del personal y promueven una gestión más consciente de los servicios y consumos.
+
+Educación y Capacitación
+Fomentamos el aprendizaje continuo de nuestros usuarios mediante tutoriales, guías y soporte especializado, ayudándoles a sacar el máximo provecho de la plataforma y fortalecer sus habilidades en gestión hotelera.
+
+Ética y Privacidad
+Respetamos la privacidad de nuestros usuarios y la seguridad de su información. Aplicamos altos estándares de protección de datos y promovemos prácticas justas y responsables en cada desarrollo.
+
+Trabajo Colaborativo
+Creemos en la fuerza del equipo. Nuestra cultura se basa en la colaboración interdisciplinaria, tanto dentro de nuestra organización como con nuestros clientes, para co-crear soluciones que generen verdadero valor.
+
 ## [1.2 Solution Profile](#solution-profile)
+
+En Hostel Manager nos dedicamos a diseñar soluciones tecnológicas modernas y accesibles que simplifiquen y optimicen la gestión hotelera para hostales y pequeños hoteles. Somos conscientes de los principales desafíos que enfrentan los administradores independientes, como la complejidad operativa, la dispersión de herramientas digitales y la dificultad para ofrecer un servicio ágil y personalizado. Por eso, hemos creado una plataforma web integral que centraliza la administración de reservas, huéspedes y servicios complementarios, facilitando el control diario y la toma de decisiones estratégicas.
+
+Nuestra solución integra funcionalidades clave que permiten:
+
+Gestión en tiempo real de reservas y disponibilidad, evitando sobreventas y errores en la asignación de habitaciones o servicios.
+
+Control centralizado de pagos y emisión automática de comprobantes, con integración a pasarelas seguras para pagos online y registro de pagos presenciales.
+
+Módulo de opiniones y calificaciones, que promueve la retroalimentación directa y mejora continua de la experiencia del huésped.
+
+Reportes dinámicos y personalizados que ofrecen información detallada sobre ocupación, ingresos, desempeño del personal y utilización de servicios.
+
+Configuración flexible de promociones y paquetes turísticos, para atraer clientes con ofertas atractivas y aumentar la rentabilidad.
+
+La plataforma está desarrollada con tecnologías web modernas que garantizan una experiencia intuitiva, segura y responsiva, accesible desde cualquier dispositivo con conexión a internet. Además, cuenta con funcionalidades para la gestión multicanal, integrándose con portales externos de reserva y sistemas de comunicación para notificaciones automáticas por correo o WhatsApp.
+
+Nuestro modelo de negocio se basa en la suscripción mensual, adaptada a las necesidades y tamaño de cada alojamiento, complementada con comisiones por reservas procesadas y opciones de publicidad premium para quienes desean mayor visibilidad.
+
+Con Hostel Manager, aspiramos a transformar la gestión hotelera independiente en América Latina, facilitando que los administradores dediquen más tiempo a brindar experiencias memorables, mientras nuestra plataforma se encarga de la eficiencia operativa y el control inteligente de sus negocios.
+
 ### [1.2.1 Antecedentes y Problemática](#antecedentes-y-problemática)
 
 ### [1.2.2 Lean UX Process](#lean-ux-process)
