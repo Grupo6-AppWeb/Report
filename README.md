@@ -284,9 +284,87 @@ Con Hostel Manager, aspiramos a transformar la gestión hotelera independiente e
 
 ### [1.2.1 Antecedentes y Problemática](#antecedentes-y-problemática)
 
+El sector de hostales y hoteles independientes en América Latina representa una parte significativa de la oferta turística, contribuyendo de manera importante a la economía regional y a la experiencia cultural de los visitantes. Sin embargo, estos alojamientos enfrentan serios desafíos en su gestión operativa debido al uso mayoritario de procesos manuales y sistemas fragmentados, lo que conduce a errores en la asignación de habitaciones, sobreventa y demoras en servicios esenciales como check-in, limpieza y cobros. Estas deficiencias impactan negativamente en la satisfacción del huésped y la rentabilidad del negocio.
+
+A esto se suma la limitada adopción de tecnologías que faciliten la integración de operaciones y permitan un control en tiempo real, situación que es aún más crítica en alojamientos gestionados por administradores novatos o con escasa experiencia digital. La falta de capacitación y apoyo técnico genera una alta tasa de abandono y rotación en la gestión, afectando la continuidad y calidad del servicio. Por otro lado, la ausencia de sistemas de pago electrónicos seguros y la baja implementación de análisis de datos restringen la capacidad de atraer turistas internacionales y optimizar la toma de decisiones.
+
+En contraste, la industria hotelera de mayor escala ya cuenta con soluciones tecnológicas avanzadas que mejoran la eficiencia y experiencia del cliente, evidenciando una brecha significativa que dificulta la competitividad del sector independiente. El mercado tecnológico para la digitalización de estos alojamientos está en crecimiento, lo que presenta una oportunidad para desarrollar plataformas accesibles, integradas y adaptadas a las necesidades específicas de estos negocios, promoviendo su sostenibilidad y profesionalización.
+
+Frente a este escenario, es fundamental analizar en profundidad las causas y consecuencias de estas deficiencias mediante la metodología de las 5Ws y 2Hs, lo que permitirá diseñar soluciones integrales que mejoren la gestión operativa, incrementen la satisfacción del huésped y fortalezcan la posición del sector independiente en el mercado turístico.
+
+###### Tabla 1
+
+_Aplicación de la metodología de las 5Ws y 2Hs para el análisis de la problemática en la gestión operativa de hostales y hoteles independientes_
+
+| Guía de las 5Ws y 2Hs | Preguntas                                                                                          | Descripción                                                                                                                                                                                                                                                                                                                                                      |
+|-----------------------|----------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| What?                | ¿Cuál es el problema principal que se busca resolver?                                              | La gestión operativa fragmentada y manual en hostales y hoteles independientes, que genera errores en la asignación de habitaciones, sobreventa, demoras en servicios clave como check-in, limpieza y cobros, afectando la rentabilidad y experiencia del huésped.                                                                                                |
+| Why?                 | ¿Por qué es importante resolverlo? ¿Qué consecuencias tiene si no se soluciona?                    | Porque impacta directamente en la satisfacción del huésped, la eficiencia operativa y la competitividad del alojamiento. La falta de digitalización y capacitación genera pérdida de clientes, reducción de ingresos y alta rotación en la gestión, lo que limita la sostenibilidad y crecimiento del sector independiente.                                         |
+| Where?               | ¿En qué contextos o lugares se manifiesta esta problemática?                                       | En hostales y hoteles independientes de América Latina, especialmente en zonas turísticas con baja infraestructura tecnológica y en establecimientos gestionados por administradores con poca experiencia en herramientas digitales.                                                                                        |
+| When?                | ¿Cuándo ocurre este problema? ¿En qué momento se vuelve más crítico?                               | El problema se agrava en temporadas altas de turismo y en fases iniciales de administración, cuando la demanda y la complejidad operativa aumentan, así como cuando hay poca capacitación previa o apoyo técnico disponible para los administradores.                                                                        |
+| Who?                 | ¿Quiénes están afectados directa o indirectamente?                                                 | Los propietarios y administradores de alojamientos independientes, especialmente aquellos sin experiencia tecnológica, así como los huéspedes que sufren retrasos, errores o mala calidad en el servicio. También afecta al sector turístico local por la pérdida de competitividad.                                       |
+| How?                 | ¿Cómo se manifiesta o podría resolverse este problema?                                              | Actualmente se manifiesta por medio de procesos manuales, hojas de cálculo y sistemas desconectados. Podría resolverse mediante el desarrollo e implementación de una plataforma digital integrada que automatice asignaciones, gestione servicios en tiempo real, incluya pasarelas de pago seguras y ofrezca análisis para la toma de decisiones. |
+| How much?            | ¿Cuál es la magnitud e impacto del problema? ¿Qué datos cuantifican la dimensión del problema?     | Se estima que más del 50% de los alojamientos independientes enfrentan problemas de sobreventa y demoras que afectan ingresos. La rotación de administradores puede superar el 40% anual. La baja adopción tecnológica limita la captación de turistas internacionales, representando pérdidas significativas en un mercado turístico regional valorado en miles de millones. |
+
+
 ### [1.2.2 Lean UX Process](#lean-ux-process)
 
+Con el objetivo de optimizar nuestro enfoque en el diseño centrado en el usuario, hemos adoptado las buenas prácticas descritas por Gothelf y Seiden (2021) para estructurar nuestro propio Lean UX Process dentro del proyecto. Según los autores, el Lean UX representa una evolución natural impulsada por la transformación continua en la forma en que se diseñan productos y servicios digitales. Este enfoque combina herramientas de diseño con metodologías ágiles de desarrollo de software, fomentando la colaboración continua entre todos los actores involucrados.
+
+En el contexto hotelero y de hostales, donde la experiencia del huésped es el eje central de la propuesta de valor, Lean UX resulta particularmente valioso al permitir ciclos iterativos rápidos, validación temprana de hipótesis y una comunicación fluida entre diseñadores, desarrolladores, personal operativo y stakeholders. Esta filosofía no solo mejora la eficiencia en la toma de decisiones, sino que garantiza que las soluciones estén profundamente alineadas con las necesidades reales de los huéspedes y los objetivos estratégicos del negocio.
+
 #### [1.2.2.1 Lean UX Problem Statements](#lean-ux-problem-statements)
+
+En la industria hotelera actual, caracterizada por un mercado competitivo y huéspedes con expectativas cada vez más altas, la experiencia personalizada se ha convertido en un diferenciador clave. Sin embargo, hostales y hoteles, especialmente aquellos de pequeña y mediana escala, enfrentan limitaciones recurrentes: **procesos manuales**, **falta de personalización**, **ineficiencias operativas** y **escasa adopción tecnológica accesible**.
+
+Estas carencias impactan directamente en la calidad del servicio. Por ejemplo, los check-in y check-out manuales generan tiempos de espera innecesarios; la falta de sistemas inteligentes impide anticiparse a las necesidades de los huéspedes; y la ausencia de datos centralizados limita la capacidad de personalizar recomendaciones, automatizar tareas rutinarias o detectar patrones de comportamiento útiles para optimizar la operación.
+
+**¿Cómo podríamos crear una solución tecnológica accesible, automatizada y centrada en el usuario que ayude a hostales y hoteles a optimizar la experiencia del huésped, reducir la carga operativa y facilitar decisiones basadas en datos, impulsando así su competitividad y sostenibilidad en el sector de hospitalidad?**
+
+**Objetivo General**
+
+Desarrollar una solución tecnológica integral para hostales y hoteles que integre automatización de procesos, gestión inteligente del huésped, análisis de datos y una plataforma digital centrada en la experiencia del usuario, con el fin de mejorar la eficiencia operativa, personalizar la atención y aumentar la satisfacción de los clientes.
+
+**Objetivos Específicos**
+
+1. Diseñar un sistema digital modular que centralice la gestión de reservas, check-in/check-out, solicitudes de servicio, y preferencias del huésped, permitiendo a los establecimientos operar de forma más eficiente y coordinada.  
+2. Desarrollar una aplicación web y móvil para el huésped, con funcionalidades como check-in sin contacto, solicitud de amenities, recomendaciones locales y encuestas de satisfacción.  
+3. Incorporar analítica de datos e inteligencia básica, para identificar patrones de comportamiento, preferencias de clientes y puntos críticos del servicio, permitiendo mejoras continuas y decisiones estratégicas basadas en evidencia.  
+4. Facilitar la automatización de procesos rutinarios, como limpieza, mantenimiento o abastecimiento de habitaciones, mediante alertas inteligentes y flujos de trabajo asignados automáticamente al personal.  
+5. Validar el prototipo en un entorno real, midiendo su impacto en la reducción de tiempos de espera, satisfacción del huésped, eficiencia operativa y percepción del personal.  
+
+**Puntos más importantes para la solución propuesta**
+
+1. Falta de integración tecnológica
+
+Muchos establecimientos aún utilizan sistemas fragmentados o procesos manuales. Esto genera errores, duplicidad de tareas y pérdida de tiempo. La solución debe centralizar operaciones en una única plataforma, reduciendo la dependencia de papel, hojas de Excel o aplicaciones inconexas.
+
+2. Experiencia del huésped poco personalizada
+
+El desconocimiento del perfil del cliente limita la capacidad de anticipar y ofrecer servicios relevantes. El sistema debe registrar preferencias, historial de estadías y hábitos, para generar recomendaciones automáticas, ofertas personalizadas y mejorar la relación huésped-establecimiento.
+
+3. Procesos operativos ineficientes
+
+Tareas como la limpieza de habitaciones, el mantenimiento o la reposición de productos suelen gestionarse sin coordinación. La plataforma debe incluir un sistema de asignación de tareas inteligente, con seguimiento en tiempo real y alertas para evitar cuellos de botella o incumplimientos.
+
+4. Escasa recolección y análisis de datos
+
+Sin datos estructurados, es difícil tomar decisiones informadas. La solución debe ofrecer dashboards visuales y reportes automáticos que permitan al administrador conocer tasas de ocupación, satisfacción, tiempo promedio de atención, y más.
+
+5. Dificultad para adaptarse a huéspedes digitales
+
+El viajero moderno espera experiencias fluidas, rápidas y sin contacto. La app debe permitir desde el check-in anticipado hasta el control de servicios desde su teléfono, elevando la percepción de innovación y comodidad.
+
+6. Falta de diferenciación en el mercado
+
+La solución tecnológica debe ayudar a los hostales y hoteles a construir una ventaja competitiva clara, basada en la experiencia del huésped, la eficiencia y el uso inteligente de la tecnología sin requerir una inversión prohibitiva.
+
+**Restricciones del Proyecto**
+
+- Cobertura inicial limitada a establecimientos urbanos: La primera fase se enfocará en hostales y hoteles en entornos urbanos medianos, donde hay mayor presión competitiva y más facilidad de implementación tecnológica.  
+- Dependencia de infraestructura digital básica: El sistema requiere conexión a internet por parte de los usuarios.  
+- No incluye funciones avanzadas de inteligencia artificial/ IOT: Aunque se contempla la evolución hacia un sistema predictivo, el MVP estará basado en reglas básicas y analítica descriptiva.  
+- Soporte multilingüe básico: Inicialmente se incluirán solo español e inglés en la interfaz, con opción de ampliación en fases futuras.  
 
 #### [1.2.2.2 Lean UX Assumptions](#lean-ux-assumptions)
 
