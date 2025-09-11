@@ -260,6 +260,9 @@ Trabajo Colaborativo
 
 Creemos en la fuerza del equipo. Nuestra cultura se basa en la colaboración interdisciplinaria, tanto dentro de nuestra organización como con nuestros clientes, para co-crear soluciones que generen verdadero valor.
 
+### [1.1.2 Perfiles de los integrantes del equipo.](#112--perfiles-de-los-integrantes-del-equipo)
+
+
 ## [1.2 Solution Profile](#solution-profile)
 
 En Hostel Manager nos dedicamos a diseñar soluciones tecnológicas modernas y accesibles que simplifiquen y optimicen la gestión hotelera para hostales y pequeños hoteles. Somos conscientes de los principales desafíos que enfrentan los administradores independientes, como la complejidad operativa, la dispersión de herramientas digitales y la dificultad para ofrecer un servicio ágil y personalizado. Por eso, hemos creado una plataforma web integral que centraliza la administración de reservas, huéspedes y servicios complementarios, facilitando el control diario y la toma de decisiones estratégicas.
