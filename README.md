@@ -331,7 +331,7 @@ Desarrollar una solución tecnológica integral para hostales y hoteles que inte
 **Objetivos Específicos**
 
 1. Diseñar un sistema digital modular que centralice la gestión de reservas, check-in/check-out, solicitudes de servicio, y preferencias del huésped, permitiendo a los establecimientos operar de forma más eficiente y coordinada.  
-2. Desarrollar una aplicación web y móvil para el huésped, con funcionalidades como check-in sin contacto, solicitud de amenities, recomendaciones locales y encuestas de satisfacción.  
+2. Desarrollar una aplicación web para el huésped, con funcionalidades como check-in sin contacto, solicitud de amenities, recomendaciones locales y encuestas de satisfacción.  
 3. Incorporar analítica de datos e inteligencia básica, para identificar patrones de comportamiento, preferencias de clientes y puntos críticos del servicio, permitiendo mejoras continuas y decisiones estratégicas basadas en evidencia.  
 4. Facilitar la automatización de procesos rutinarios, como limpieza, mantenimiento o abastecimiento de habitaciones, mediante alertas inteligentes y flujos de trabajo asignados automáticamente al personal.  
 5. Validar el prototipo en un entorno real, midiendo su impacto en la reducción de tiempos de espera, satisfacción del huésped, eficiencia operativa y percepción del personal.  
@@ -356,7 +356,7 @@ Sin datos estructurados, es difícil tomar decisiones informadas. La solución d
 
 5. Dificultad para adaptarse a huéspedes digitales
 
-El viajero moderno espera experiencias fluidas, rápidas y sin contacto. La app debe permitir desde el check-in anticipado hasta el control de servicios desde su teléfono, elevando la percepción de innovación y comodidad.
+El viajero moderno espera experiencias fluidas, rápidas y sin contacto. La app debe permitir desde el check-in anticipado hasta el control de servicios, elevando la percepción de innovación y comodidad.
 
 6. Falta de diferenciación en el mercado
 
@@ -371,123 +371,7 @@ La solución tecnológica debe ayudar a los hostales y hoteles a construir una v
 
 #### [1.2.2.2 Lean UX Assumptions](#lean-ux-assumptions)
 
-## User Assumptions
 
-- **Creemos que**, como personal o administradores de hosteles y hoteles con enfoque sostenible, los usuarios interactuarán con la sección de sensores de la app para monitorear en tiempo real variables como humedad del sustrato, luz, temperatura y salinidad, y así optimizar el mantenimiento de áreas verdes o decorativas.  
-  **Validación:** Se considera validada si al menos el 70 % de los usuarios manifiestan usar esta función en prototipos de media fidelidad durante pruebas de usabilidad.  
-  **Método:** Sesiones semiestructuradas y análisis de logs de interacción.
-
-- **Consideramos que**, el personal integrará la solución durante su rutina semanal, especialmente en horarios de menor actividad operativa (mañanas o entre turnos), promoviendo buenas prácticas ecológicas y bienestar en los espacios comunes.  
-  **Validación:** Encuestas a lo largo de dos meses. Validado si al menos el 60 % reporta uso dentro de esos horarios.  
-  **Método:** Diario de uso + entrevistas.
-
-- **Suponemos un uso dual del producto:** pasivo (monitoreo automático con alertas) y activo (consulta y toma de decisiones vía app móvil o web por parte del equipo de mantenimiento).  
-  **Validación:** Al menos 65 % de los usuarios acceden a la app tras recibir una alerta en prototipos funcionales.  
-  **Método:** Análisis de logs y sesiones de prueba.
-
-- **Partimos de la hipótesis de que**, al instalar el dispositivo en zonas comunes (recepciones verdes, patios, rooftops), será percibido como moderno, decorativo y profesional por parte del huésped, además de funcional por el staff.  
-  **Validación:** 80 % de aprobación en tests de primer impacto visual con alta fidelidad.  
-  **Método:** Entrevistas rápidas con huéspedes + personal.
-
-- **Asumimos que los elementos visuales de la app**, como íconos e indicadores de estado, permitirán que el personal de limpieza o mantenimiento pueda ejecutar acciones básicas (riego manual, alertas) en menos de 5 segundos.  
-  **Validación:** 75 % completa tareas de prueba en menos de 5 segundos.  
-  **Método:** Pruebas de tarea en prototipos interactivos.
-
-- **Estimamos que el equipo podrá configurar la solución en menos de 3 minutos por maceta**, confiando en sugerencias automatizadas.  
-  **Validación:** 70 % realiza configuración sin asistencia en test de baja fidelidad.  
-  **Método:** Prueba de configuración cronometrada.
-
-
-## User Outcomes
-
-### 1. Optimizar la salud de plantas ornamentales en espacios de alto tráfico
-- **Lean UX Goal:** Asegurar que las plantas en patios, recepciones o rooftops mantengan buena apariencia y salud.
-- **Resultado:** Se atienden las alertas de cuidado a tiempo.
-- **Propósito:** Mejorar la percepción estética del espacio por los huéspedes.
-- **Criterio de éxito:** 75 % de plantas siguen saludables después de 3 meses.
-- **Medición:** Estado de plantas vs. logs de alertas atendidas.
-
-### 2. Reducir el desperdicio de agua en riego
-- **Lean UX Goal:** Mejorar eficiencia en el uso del agua.
-- **Resultado:** Uso de riego automático para optimizar consumo.
-- **Propósito:** Disminuir el impacto ambiental del establecimiento.
-- **Criterio de éxito:** Reducción mínima del 50 % de agua usada en 6 meses.
-- **Medición:** Comparación entre consumo actual vs. histórico.
-
-### 3. Facilitar el aprendizaje autónomo del personal
-- **Lean UX Goal:** Empoderar al equipo para cuidar plantas sin expertos.
-- **Resultado:** Se ejecutan acciones recomendadas (riego, abonado) sin asistencia.
-- **Propósito:** Aumentar autonomía y reducir errores en el cuidado.
-- **Criterio de éxito:** 70 % de acciones completadas sin ayuda externa.
-- **Medición:** Registro de ejecución + encuestas de comprensión.
-
-### 4. Aumentar el bienestar emocional en huéspedes y personal
-- **Lean UX Goal:** Crear experiencias positivas en espacios verdes.
-- **Resultado:** Mejora del estado de ánimo tras la interacción con áreas verdes.
-- **Propósito:** Posicionar al hotel como un espacio biofílico.
-- **Criterio de éxito:** Aumento del 20 % en indicadores de bienestar reportados.
-- **Medición:** Encuestas antes y después de la instalación del sistema.
-
-### 5. Promover prácticas sostenibles dentro del hostel/hotel
-- **Lean UX Goal:** Fomentar la implementación de rutinas ecológicas.
-- **Resultado:** Se adopta compostaje, reuso de agua u otras acciones sostenibles.
-- **Propósito:** Posicionar el negocio como un referente en turismo responsable.
-- **Criterio de éxito:** 30 % de usuarios o staff adopta al menos dos prácticas nuevas.
-- **Medición:** Encuestas semestrales de hábitos ecológicos.
-
-
-## Business Assumptions
-
-- **Creemos que** hosteles y hoteles con enfoque ecológico buscan soluciones tecnológicas que les permitan mantener espacios verdes sin contratar personal especializado.  
-- **Estas necesidades** se satisfacen con una maceta inteligente equipada con sensores IoT, riego automatizado y una app que facilita el monitoreo desde cualquier lugar.  
-- **Nuestros clientes iniciales** serán hosteles boutique, ecohoteles y alojamientos urbanos que desean destacar por su compromiso con la sostenibilidad y el diseño biofílico.  
-- **El valor principal para estos clientes** es la facilidad de gestión de plantas sin esfuerzo técnico y el valor percibido que los huéspedes dan a espacios verdes bien cuidados.  
-
-### Beneficios adicionales esperados:
-- Mayor satisfacción del huésped.
-- Reducción del consumo de agua y fertilizantes.
-- Ahorro en mantenimiento.
-- Diferenciación competitiva en plataformas como Booking o Airbnb.
-- Mejora en puntuaciones de sostenibilidad (ej. Green Key).
-
-- **Canales de adquisición:** marketing en ferias de hotelería sostenible, redes sociales, partnerships con asociaciones de hostelería, y promoción en marketplaces de tecnología para el sector.  
-- **Modelo de ingresos:** venta directa de macetas inteligentes y suscripciones a la plataforma de monitoreo y soporte.  
-- **Competencia:** Click & Grow, soluciones DIY con sensores sueltos, o servicios de jardinería externa.  
-- **Ventaja diferencial:** solución integral (hardware + software), estética premium, fácil de usar por personal no técnico y con orientación a sostenibilidad turística.  
-- **Riesgos principales:**  
-  1. Hardware no confiable → afecta reputación.  
-  2. Precio percibido como alto vs. beneficio.  
-  3. Poco interés del rubro hotelero en automatización verde.  
-  4. Diseño no alineado con estética del lugar.  
-- **Mitigación:** pruebas piloto con clientes reales, mejora continua del diseño, soporte técnico dedicado y ajustes en pricing.
-
-## Business Outcomes
-
-### 1. Adopción en hosteles y hoteles de Lima Metropolitana
-- **Goal:** Introducir Macetech en establecimientos eco-friendly de Lima.
-- **Propósito:** Validar encaje en el sector turismo sostenible.
-- **Meta:** 25 instalaciones en 12 meses; 10 al mes 6.
-- **Medición:** Contratos cerrados y macetas activas geolocalizadas.
-
-### 2. Reducción del churn del primer trimestre
-- **Goal:** Evitar abandono del producto por desmotivación o mal uso.
-- **Meta:** Tasa de churn < 20 % en 90 días.
-- **Medición:** Logs de uso y encuestas de satisfacción.
-
-### 3. Aumentar visibilidad orgánica en sector hotelero LATAM
-- **Goal:** Posicionar Macetech en Google en mercados clave.
-- **Meta:** Top 10 para "jardinería para hoteles", "macetas inteligentes sostenibles" en 6 meses.
-- **Medición:** Google Search Console, SEMrush.
-
-### 4. Prevenir abandono por miedo a brechas de privacidad
-- **Goal:** Tranquilizar a los clientes sobre manejo de datos.
-- **Meta:** < 15 % de churn relacionado a privacidad.
-- **Medición:** Encuestas in-app, feedback post instalación.
-
-### 5. Validar modelo de suscripción sostenible
-- **Goal:** Generar ingresos estables por monitoreo y soporte técnico.
-- **Meta:** 50 hoteles suscritos con planes anuales o mensuales (S/ 59.90 mensuales).
-- **Medición:** MRR > S/ 2,995 y margen del 60 % en 12 meses.
 
 
 #### [1.2.2.3 Lean UX Hypothesis Statements](#lean-ux-hypothesis-statements)
