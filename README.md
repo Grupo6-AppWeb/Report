@@ -382,7 +382,7 @@ Sabremos que tenemos razón si en el mes 18 obtenemos un 20 % de cuota de mercad
 
 ### Segmento Objetivo : Huesped
 
-<img src="/images/As-IsHuesped.jpg">
+<img src="/images/To-BeProductor.jpg">
 
 ## [2.4 Ubiquitous Language](#ubiquitous-language)
 
@@ -391,7 +391,7 @@ Sabremos que tenemos razón si en el mes 18 obtenemos un 20 % de cuota de mercad
 
 ### Segmento Objetivo : Productor
 
-<img src="/images/To-BeProductor.jpg">
+<img src="/images/As-IsHuesped.jpg">
 
 ### Segmento Objetivo : Huesped
 
