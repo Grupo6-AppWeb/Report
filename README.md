@@ -479,7 +479,7 @@ Entrevista N1:
   * **Inicio de Entrevista:** 0:00
   * **Final de Entrevista:** 3:02
 
-<img src="/images/Entrevista1.jpg">
+<img src="/images/Entrevista1.png">
 
 
 * **Resumen De Entrevista**
