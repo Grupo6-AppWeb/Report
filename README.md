@@ -1,5 +1,3 @@
-![Lean UX Canvas](https://github.com/user-attachments/assets/31950454-04b6-487f-b617-e9fc322780fa)<br />
-
 <div align="center">
     <h1> Universidad Peruana de Ciencias Aplicadas </h1>
 
