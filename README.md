@@ -467,6 +467,27 @@ b) Preguntas Específicas
 
 ### [2.2.2 Registro de entrevistas](#registro-de-entrevistas)
 
+Segmento Objetivo 1: Administrador/a
+
+Entrevista N1:
+
+* **Nombre y apellidos:** Jakeline Gutierrez 
+  * **Edad:** 36 años
+  * **Departamento:** Ayacucho
+  * **Ocupación:** Administradora de hostel <br><br>
+  * **Tiempo de Entrevista:** 3 minutos con 02 segundos
+  * **Inicio de Entrevista:** 0:00
+  * **Final de Entrevista:** 3:02
+
+* **Resumen De Entrevista**
+
+Jalkelin explicó que administra el hostal Nogales en Ayacucho con 15 habitaciones. Maneja las reservas manualmente en un cuaderno y coordina algunas por WhatsApp. Los métodos de pago más comunes son efectivo y transferencias por Yape/Plin. Nunca ha usado un sistema digital de gestión.
+Mencionó que los problemas principales son las reservas duplicadas y la falta de control de pagos cuando los clientes llegan por diferentes canales. Dedica entre 3 y 4 horas diarias a la gestión, y desearía reducirlo a menos de 1 hora con ayuda de un sistema digital. Considera críticas funciones como control de habitaciones, facturación digital, integración con pagos con tarjeta y reportes de temporadas altas/bajas. Estaría dispuesta a pagar aproximadamente S/100 mensuales si el sistema realmente le ahorra tiempo y pérdidas.
+
+
+**Link:** https://url-shortener.me/4UMU
+
+
 ### [2.2.3 Análisis de entrevistas](#análisis-de-entrevistas)
 ## [2.3 Needfinding](#needfinding)
 
