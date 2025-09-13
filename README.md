@@ -346,7 +346,7 @@ Sabremos que tenemos razón si en el mes 18 obtenemos un 20 % de cuota de mercad
 
 #### [1.2.2.4 Lean UX Canvas](#lean-ux-canvas)
 
-<img src="/images/Lean UX Canvas.jpg" width= "400px">
+<img src="/images/Lean UX Canvas.jpg">
 
 ## [1.3. Segmentos objetivo](#segmentos-objetivo)
 
