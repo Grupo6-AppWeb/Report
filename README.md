@@ -375,10 +375,27 @@ Sabremos que tenemos razón si en el mes 18 obtenemos un 20 % de cuota de mercad
 ### [2.3.3 User Journey Mapping](#user-journey-mapping)
 ### 2.3.4. Empathy Mapping.
 ### 2.3.5. As-is Scenario Mapping.
+
+### Segmento Objetivo : Productor
+
+<img src="/images/As-IsProductor.jpg">
+
+### Segmento Objetivo : Huesped
+
+<img src="/images/As-IsHuesped.jpg">
+
 ## [2.4 Ubiquitous Language](#ubiquitous-language)
 
 # [Capítulo III: Requirements Specification.](#capítulo-iii-requirements-specification)
 ## [3.1. To-Be Scenario Mapping.](#to-be-scenario-mapping)
+
+### Segmento Objetivo : Productor
+
+<img src="/images/To-BeProductor.jpg">
+
+### Segmento Objetivo : Huesped
+
+<img src="/images/To-BeHuesped.jpg">
 
 ## [3.2. User Stories.](#user-stories)
 
