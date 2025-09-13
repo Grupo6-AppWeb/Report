@@ -372,6 +372,36 @@ Sabremos que tenemos razón si en el mes 18 obtenemos un 20 % de cuota de mercad
 
 ### [2.3.1 User Personas](#user-personas)
 ### [2.3.2 User Task Matrix](#user-task-matrix)
+
+#### Segmento Objetivo: Administrador
+
+| Actividades                                               | Frecuencia | Importancia |
+|-----------------------------------------------------------|------------|-------------|
+| Gestionar reservas y disponibilidad de habitaciones       | Alta       | Alta        |
+| Realizar check-in y check-out de huéspedes                | Alta       | Alta        |
+| Generar reportes de ingresos y ocupación                  | Media      | Alta        |
+| Coordinar servicios adicionales (desayunos, limpieza, lavandería) | Media      | Media       |
+| Configurar precios y promociones                          | Media      | Alta        |
+| Gestionar pagos y emitir comprobantes                     | Alta       | Alta        |
+| Atender consultas y solicitudes de huéspedes              | Alta       | Media       |
+| Revisar reseñas y feedback de huéspedes                   | Media      | Media       |
+
+
+#### Segmento Objetivo: Huesped
+
+| Actividades                                                          | Frecuencia | Importancia |
+|----------------------------------------------------------------------|------------|-------------|
+| Buscar y comparar hostales/hoteles en la web                         | Alta       | Alta        |
+| Realizar reserva online                                              | Alta       | Alta        |
+| Hacer check-in web antes o al llegar                                 | Media      | Alta        |
+| Realizar pago online y recibir comprobante digital                   | Alta       | Alta        |
+| Consultar servicios adicionales (ej: desayuno, tours, lavandería)    | Media      | Media       |
+| Solicitar servicios extra desde la web                               | Media      | Media       |
+| Revisar fotos, reseñas y detalles prácticos (Wi-Fi, horarios)        | Alta       | Alta        |
+| Dejar reseña o compartir experiencia                                 | Baja       | Media       |
+| Descargar o guardar factura digital para sus gastos                  | Baja       | Alta        |
+
+
 ### [2.3.3 User Journey Mapping](#user-journey-mapping)
 ### 2.3.4. Empathy Mapping.
 ### 2.3.5. As-is Scenario Mapping.
