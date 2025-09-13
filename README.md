@@ -497,9 +497,18 @@ Mencionó que los problemas principales son las reservas duplicadas y la falta d
 
 
 ### [2.3.1 User Personas](#user-personas)
+
+#### Segmento Objetivo: Administrador/a
+
+<img src="/images/UserPerson1.png">
+
+#### Segmento Objetivo: Huesped
+
+<img src="/images/UserPerson2.png">
+
 ### [2.3.2 User Task Matrix](#user-task-matrix)
 
-#### Segmento Objetivo: Administrador
+#### Segmento Objetivo: Administrador/a
 
 | Actividades                                               | Frecuencia | Importancia |
 |-----------------------------------------------------------|------------|-------------|
