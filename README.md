@@ -479,6 +479,9 @@ Entrevista N1:
   * **Inicio de Entrevista:** 0:00
   * **Final de Entrevista:** 3:02
 
+<img src="/images/Entrevista1.jpg">
+
+
 * **Resumen De Entrevista**
 
 Jalkelin explicó que administra el hostal Nogales en Ayacucho con 15 habitaciones. Maneja las reservas manualmente en un cuaderno y coordina algunas por WhatsApp. Los métodos de pago más comunes son efectivo y transferencias por Yape/Plin. Nunca ha usado un sistema digital de gestión.
