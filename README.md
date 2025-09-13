@@ -212,6 +212,7 @@ Visión:
 
 Ser la plataforma líder en gestión digital para hostales y hoteles en latinoamérica, reconocida por la innovación tecnológica, la integración con dispositivos inteligentes y el modelo de suscripción flexible. Aspirando a construir un ecosistema turístico más  competitivo, eficiente y sostenible, donde la tecnología impulse el crecimiento de los negocios.
 
+<img src="/images/HotelManager.jpg">
 
 ### [1.1.2 Perfiles de los integrantes del equipo.](#112--perfiles-de-los-integrantes-del-equipo)
 
