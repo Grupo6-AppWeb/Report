@@ -1,4 +1,4 @@
-<br />
+![Lean UX Canvas](https://github.com/user-attachments/assets/31950454-04b6-487f-b617-e9fc322780fa)<br />
 
 <div align="center">
     <h1> Universidad Peruana de Ciencias Aplicadas </h1>
@@ -202,63 +202,18 @@ Comprometidos con la transformación digital del sector, desarrollamos una soluc
 
 ### [1.1.1 Descripción de la Startup](#descripción-de-la-startup)
 
-En este apartado se presenta una visión integral de Hostel Manager, la plataforma digital que nace con el propósito de transformar la gestión operativa de hostales y hoteles mediante soluciones tecnológicas modernas, accesibles e inteligentes. Esta herramienta integra en un solo entorno la administración de reservas, atención al huésped y servicios complementarios como limpieza, lavandería y alimentación, bajo un modelo de suscripción mensual que se adapta a distintos tamaños y tipos de negocios turísticos.
+La idea de Hostel Manager nació en 2025 con el propósito de transformar la manera en que los hostales y hoteles gestionan sus operaciones. A través de una plataforma web moderna, Hostel Manager integra la administración de reservas, huéspedes y servicios adicionales (como desayunos, limpieza y lavandería) bajo un modelo de suscripción mensual accesible.
 
-Más allá de digitalizar procesos, Hostel Manager busca elevar la rentabilidad, sostenibilidad y calidad del servicio que ofrecen los alojamientos independientes en Latinoamérica y otros mercados emergentes. A través de reportes avanzados, pasarelas de pago seguras y compatibilidad con dispositivos inteligentes, la plataforma potencia la eficiencia operativa al tiempo que mejora la experiencia de los viajeros.
+La solución no solo digitaliza procesos clave, sino que también potencia la rentabilidad y eficiencia de los negocios turísticos, ofreciendo herramientas de reportes, pasarelas de pago seguras y soporte para dispositivos inteligentes. Con ella, Hostel Manager impulsa la sostenibilidad de los hostales y mejora la experiencia de los viajeros en latinoamérica y más allá.
 
-A continuación, se detallan la misión que guía nuestro quehacer diario, la visión que orienta nuestro crecimiento a largo plazo y los valores que sustentan nuestra cultura organizacional.
+Misión:
 
-Misión
+En Hostel Manager nuestra misión es facilitar la digitalización de hostales y hoteles mediante soluciones tecnológicas accesibles e inteligentes. Nos comprometemos a optimizar la gestión de reservas, huéspedes y servicios, ofreciendo un sistema confiable, seguro y escalable que permite a los administradores enfocarse en brindar experiencias de hospitalidad de calidad.
 
-Desarrollar soluciones tecnológicas accesibles, seguras y escalables que impulsen la digitalización de hostales y hoteles en Latinoamérica. En Hostel Manager nos comprometemos a optimizar la gestión de reservas, huéspedes y servicios adicionales, permitiendo que los administradores se enfoquen en brindar experiencias de hospitalidad memorables, mientras nuestra plataforma se encarga de los aspectos operativos y administrativos.
+Visión: 
 
-Visión
+Ser la plataforma líder en gestión digital para hostales y hoteles en latinoamérica, reconocida por la innovación tecnológica, la integración con dispositivos inteligentes y el modelo de suscripción flexible. Aspirando a construir un ecosistema turístico más  competitivo, eficiente y sostenible, donde la tecnología impulse el crecimiento de los negocios.
 
-Convertirnos en la plataforma líder de gestión hotelera digital en América Latina, reconocida por su innovación, confiabilidad y capacidad de adaptación a las necesidades reales de los alojamientos independientes. Aspiramos a ser un actor clave en la construcción de un ecosistema turístico más competitivo, eficiente y sostenible, donde la tecnología sea una herramienta de crecimiento, inclusión y excelencia en el servicio.
-
-Valores
-
-En Hostel Manager, creemos que la transformación digital de la hospitalidad debe ir acompañada de principios sólidos que garanticen un desarrollo tecnológico ético, inclusivo y orientado al impacto real. Estos valores guían nuestras decisiones estratégicas y nuestro compromiso con clientes, colaboradores y comunidades.
-
-Accesibilidad
-
-Diseñamos soluciones que cualquier persona pueda utilizar, sin requerir conocimientos técnicos avanzados. Nuestra interfaz intuitiva permite que administradores, recepcionistas y propietarios operen el sistema con facilidad desde el primer día.
-
-Escalabilidad
-
-Nuestra plataforma está pensada para crecer junto a cada negocio, permitiendo a pequeños hostales o grandes hoteles gestionar sus operaciones de forma eficiente, sin necesidad de migrar a otros sistemas a medida que evolucionan.
-
-Conectividad
-
-Facilitamos la integración con canales de reserva externos, herramientas de comunicación y sistemas de pago, permitiendo una gestión moderna, centralizada y eficiente.
-
-Eficiencia Operativa
-
-Optimizamos recursos y procesos a través de automatizaciones, reportes dinámicos y funciones personalizables que reducen errores, minimizan tareas repetitivas y mejoran la toma de decisiones.
-
-Transparencia
-
-Nos regimos por prácticas claras y honestas en todos nuestros procesos. Desde los términos de nuestra suscripción hasta el uso de los datos y el soporte técnico, promovemos relaciones de confianza con nuestros clientes.
-
-Innovación
-
-Estamos en constante evolución. Escuchamos activamente a nuestros usuarios para desarrollar nuevas funcionalidades que resuelvan problemas reales del sector hotelero, integrando tecnología de vanguardia en soluciones prácticas.
-
-Sostenibilidad
-
-Contribuimos a un turismo más responsable mediante herramientas que reducen el desperdicio de recursos, optimizan la planificación del personal y promueven una gestión más consciente de los servicios y consumos.
-
-Educación y Capacitación
-
-Fomentamos el aprendizaje continuo de nuestros usuarios mediante tutoriales, guías y soporte especializado, ayudándoles a sacar el máximo provecho de la plataforma y fortalecer sus habilidades en gestión hotelera.
-
-Ética y Privacidad
-
-Respetamos la privacidad de nuestros usuarios y la seguridad de su información. Aplicamos altos estándares de protección de datos y promovemos prácticas justas y responsables en cada desarrollo.
-
-Trabajo Colaborativo
-
-Creemos en la fuerza del equipo. Nuestra cultura se basa en la colaboración interdisciplinaria, tanto dentro de nuestra organización como con nuestros clientes, para co-crear soluciones que generen verdadero valor.
 
 ### [1.1.2 Perfiles de los integrantes del equipo.](#112--perfiles-de-los-integrantes-del-equipo)
 
@@ -295,9 +250,6 @@ En contraste, la industria hotelera de mayor escala ya cuenta con soluciones tec
 
 Frente a este escenario, es fundamental analizar en profundidad las causas y consecuencias de estas deficiencias mediante la metodología de las 5Ws y 2Hs, lo que permitirá diseñar soluciones integrales que mejoren la gestión operativa, incrementen la satisfacción del huésped y fortalezcan la posición del sector independiente en el mercado turístico.
 
-###### Tabla 1
-
-_Aplicación de la metodología de las 5Ws y 2Hs para el análisis de la problemática en la gestión operativa de hostales y hoteles independientes_
 
 | Guía de las 5Ws y 2Hs | Preguntas                                                                                          | Descripción                                                                                                                                                                                                                                                                                                                                                      |
 |-----------------------|----------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -318,235 +270,69 @@ En el contexto hotelero y de hostales, donde la experiencia del huésped es el e
 
 #### [1.2.2.1 Lean UX Problem Statements](#lean-ux-problem-statements)
 
-En la industria hotelera actual, caracterizada por un mercado competitivo y huéspedes con expectativas cada vez más altas, la experiencia personalizada se ha convertido en un diferenciador clave. Sin embargo, hostales y hoteles, especialmente aquellos de pequeña y mediana escala, enfrentan limitaciones recurrentes: **procesos manuales**, **falta de personalización**, **ineficiencias operativas** y **escasa adopción tecnológica accesible**.
+Domain:
 
-Estas carencias impactan directamente en la calidad del servicio. Por ejemplo, los check-in y check-out manuales generan tiempos de espera innecesarios; la falta de sistemas inteligentes impide anticiparse a las necesidades de los huéspedes; y la ausencia de datos centralizados limita la capacidad de personalizar recomendaciones, automatizar tareas rutinarias o detectar patrones de comportamiento útiles para optimizar la operación.
+- Los administradores de hostales y de hoteles independientes carecen de un sistema centralizado y de fácil acceso para gestionar las reservaciones, los huéspedes y los servicios adicionales. Como resultado, recurren a procesos manuales, lo que conduce a que la información se duplique, se cometan errores y se pierdan oportunidades de ingresos.
 
-**¿Cómo podríamos crear una solución tecnológica accesible, automatizada y centrada en el usuario que ayude a hostales y hoteles a optimizar la experiencia del huésped, reducir la carga operativa y facilitar decisiones basadas en datos, impulsando así su competitividad y sostenibilidad en el sector de hospitalidad?**
+Customer Segments:
 
-**Objetivo General**
+- Administradores y propietarios de hostales y de pequeños hoteles.
+- Empresas familiares que actualmente gestionan las reservas de forma manual.
 
-Desarrollar una solución tecnológica integral para hostales y hoteles que integre automatización de procesos, gestión inteligente del huésped, análisis de datos y una plataforma digital centrada en la experiencia del usuario, con el fin de mejorar la eficiencia operativa, personalizar la atención y aumentar la satisfacción de los clientes.
+Pain Points:
 
-**Objetivos Específicos**
+- Los procesos manuales para las reservas, check-in/check-out y servicios adicionales pueden generar errores y pérdida de ingresos.
+- La falta de un sistema integrado y accesible para que las operaciones estén bien centralizadas.
 
-1. Diseñar un sistema digital modular que centralice la gestión de reservas, check-in/check-out, solicitudes de servicio, y preferencias del huésped, permitiendo a los establecimientos operar de forma más eficiente y coordinada.  
-2. Desarrollar una aplicación web para el huésped, con funcionalidades como check-in sin contacto, solicitud de amenities, recomendaciones locales y encuestas de satisfacción.  
-3. Incorporar analítica de datos e inteligencia básica, para identificar patrones de comportamiento, preferencias de clientes y puntos críticos del servicio, permitiendo mejoras continuas y decisiones estratégicas basadas en evidencia.  
-4. Facilitar la automatización de procesos rutinarios, como limpieza, mantenimiento o abastecimiento de habitaciones, mediante alertas inteligentes y flujos de trabajo asignados automáticamente al personal.  
-5. Validar el prototipo en un entorno real, midiendo su impacto en la reducción de tiempos de espera, satisfacción del huésped, eficiencia operativa y percepción del personal.  
+Gap:
 
-**Puntos más importantes para la solución propuesta**
+- Existen sistemas de gestión de hoteles en el mercado, pero la mayoría son costosos, complejos o están pensados para las grandes cadenas. Esto deja a los pequeños hostales y hoteles en una desventaja tecnológica y operacional.
 
-1. Falta de integración tecnológica
+Vision/Strategy:
 
-Muchos establecimientos aún utilizan sistemas fragmentados o procesos manuales. Esto genera errores, duplicidad de tareas y pérdida de tiempo. La solución debe centralizar operaciones en una única plataforma, reduciendo la dependencia de papel, hojas de Excel o aplicaciones inconexas.
+- Hostel Manager busca ser la plataforma líder en gestión digital para hostales y hoteles en latinoamérica, reconocida por la innovación tecnológica, la integración con dispositivos inteligentes y el modelo de suscripción flexible. Aspirando a construir un ecosistema turístico más  competitivo, eficiente y sostenible, donde la tecnología impulse el crecimiento de los negocios.
 
-2. Experiencia del huésped poco personalizada
+Initial Segment:
 
-El desconocimiento del perfil del cliente limita la capacidad de anticipar y ofrecer servicios relevantes. El sistema debe registrar preferencias, historial de estadías y hábitos, para generar recomendaciones automáticas, ofertas personalizadas y mejorar la relación huésped-establecimiento.
-
-3. Procesos operativos ineficientes
-
-Tareas como la limpieza de habitaciones, el mantenimiento o la reposición de productos suelen gestionarse sin coordinación. La plataforma debe incluir un sistema de asignación de tareas inteligente, con seguimiento en tiempo real y alertas para evitar cuellos de botella o incumplimientos.
-
-4. Escasa recolección y análisis de datos
-
-Sin datos estructurados, es difícil tomar decisiones informadas. La solución debe ofrecer dashboards visuales y reportes automáticos que permitan al administrador conocer tasas de ocupación, satisfacción, tiempo promedio de atención, y más.
-
-5. Dificultad para adaptarse a huéspedes digitales
-
-El viajero moderno espera experiencias fluidas, rápidas y sin contacto. La app debe permitir desde el check-in anticipado hasta el control de servicios, elevando la percepción de innovación y comodidad.
-
-6. Falta de diferenciación en el mercado
-
-La solución tecnológica debe ayudar a los hostales y hoteles a construir una ventaja competitiva clara, basada en la experiencia del huésped, la eficiencia y el uso inteligente de la tecnología sin requerir una inversión prohibitiva.
-
-**Restricciones del Proyecto**
-
-- Cobertura inicial limitada a establecimientos urbanos: La primera fase se enfocará en hostales y hoteles en entornos urbanos medianos, donde hay mayor presión competitiva y más facilidad de implementación tecnológica.  
-- Dependencia de infraestructura digital básica: El sistema requiere conexión a internet por parte de los usuarios.  
-- No incluye funciones avanzadas de inteligencia artificial/ IOT: Aunque se contempla la evolución hacia un sistema predictivo, el MVP estará basado en reglas básicas y analítica descriptiva.  
-- Soporte multilingüe básico: Inicialmente se incluirán solo español e inglés en la interfaz, con opción de ampliación en fases futuras.  
+- El segmento inicial lo conforman hostales y hoteles pequeños situados en zonas turísticas de Perú y Latinoamérica, con recursos económicos limitados, que necesitan una solución de gestión sencilla y flexible mediante una suscripción mensual.
 
 #### [1.2.2.2 Lean UX Assumptions](#lean-ux-assumptions)
 
-### User Assumptions 
-
-- Creemos que, como administradores de hostales, nuestros usuarios interactuarán diariamente con el módulo de reservas de la plataforma para revisar disponibilidad y confirmar check-ins, con el fin de evitar sobreventas y errores en la asignación de habitaciones. Validaremos esta suposición si, en un prototipo de media fidelidad probado durante 2 semanas con 10 administradores, al menos el 70 % ingresa de manera recurrente al módulo antes de aceptar o rechazar una reserva. Para testearlo, registraremos métricas de acceso, tiempos de interacción y entrevistas breves, dado que si no hay uso continuo del módulo de reservas la propuesta pierde su valor central y su validación temprana es prioritaria.
-
-- Creemos que, como administradores, nuestros usuarios completarán la configuración inicial de su hostal (habitaciones, precios y calendario) en menos de 15 minutos gracias al flujo guiado de onboarding, con el fin de comenzar a operar rápidamente sin depender de soporte técnico. Validaremos esta suposición si, en sesiones de usabilidad con 12 administradores, al menos el 75 % logra completar la configuración en ese tiempo sin ayuda. Para testearlo, cronometraremos las sesiones, analizaremos errores y realizaremos encuestas post-tarea, dado que si la configuración inicial no es rápida existe un riesgo alto de abandono temprano y por ello la prioridad es máxima.
-
-- Creemos que, como huéspedes, nuestros usuarios utilizarán el check-in online previo a su llegada con el fin de agilizar su ingreso y reducir tiempos de espera en la recepción. Validaremos esta suposición si, en un piloto con 50 reservas, al menos el 60 % de los huéspedes completa el check-in digital antes de presentarse en el alojamiento. Para testearlo, instrumentaremos el flujo de check-in, recopilaremos métricas de uso y realizaremos encuestas de satisfacción, dado que si los huéspedes no utilizan esta función, se pierde uno de los diferenciadores clave de la plataforma, y por ello la prioridad es alta.
-
-- Creemos que, como usuarios, podrán suscribirse al plan mensual de Hostel Manager en menos de 5 minutos de manera autónoma, con el fin de comenzar a usar la plataforma sin fricciones ni dependencia de asistencia externa. Validaremos esta suposición si, al menos el 70 % completa el proceso de suscripción sin ayuda y en menos de 5 minutos. Para testearlo, registraremos tiempos de finalización, errores en el flujo y encuestas de satisfacción sobre la claridad del proceso, dado que si la suscripción no es percibida como rápida y sencilla se reduce la tasa de adopción, y su validación es de prioridad alta.
-
-- Creemos que, como huéspedes, nuestros usuarios apreciarán recibir notificaciones automáticas (confirmación de reserva, recordatorio de check-in, agradecimiento post-estancia) con el fin de sentirse informados y acompañados en su experiencia de hospedaje. Validaremos esta suposición si, en pruebas con 40 huéspedes, al menos el 65 % abre las notificaciones y un 50 % declara que mejoraron su experiencia general. Para testearlo, analizaremos métricas de apertura y realizaremos encuestas post-estancia, dado que si las notificaciones no generan valor percibido se pierde una oportunidad clave de fidelización, y su validación es de prioridad media.
-
-### User Outcomes
-
-1. Reducir la sobreventa de habitaciones
-
-- Objetivo Lean UX: Empoderar a los administradores para gestionar reservas en tiempo real, evitando errores de disponibilidad.
-
-- Resultado deseado: Los administradores revisarán y confirmarán cada reserva a través del panel centralizado antes de aceptarla.
-
-- Propósito: Garantizar una operación ordenada que incremente la confianza de los huéspedes y la reputación del alojamiento.
-
-- Criterio de éxito: Que al menos el 80 % de los alojamientos participantes no reporte casos de sobreventa tras tres meses de uso.
-
-- Método de medición: Análisis de registros de reservas, comparando incidentes de sobreventa antes y después de implementar la plataforma.
-
-
-2. Agilizar el proceso de check-in
-
-- Objetivo Lean UX: Facilitar a los huéspedes un ingreso rápido y sin fricciones mediante el check-in online.
-
-- Resultado deseado: Los huéspedes completarán la mayoría de los datos requeridos antes de su llegada.
-
-- Propósito: Reducir los tiempos de espera en recepción y mejorar la experiencia inicial de hospedaje.
-
-- Criterio de éxito: Que al menos el 65 % de los huéspedes realice el check-in digital previo a su llegada.
-
-- Método de medición: Monitoreo del uso del módulo de check-in y encuestas post-estancia sobre satisfacción en el proceso de llegada.
-
-
-3. Simplificar la suscripción a la plataforma
-
-- Objetivo Lean UX: Permitir que los administradores se suscriban al plan mensual de manera rápida y autónoma.
-
-- Resultado deseado: Los administradores completarán el registro y activación de su cuenta en menos de 5 minutos.
-
-- Propósito: Eliminar barreras de adopción temprana y asegurar una experiencia inicial positiva.
-
-- Criterio de éxito: Que al menos el 70 % de los nuevos administradores complete la suscripción sin requerir asistencia.
-
-- Método de medición: Análisis de tiempos y errores en el flujo de suscripción más encuestas sobre facilidad de uso.
-
-
-4. Mejorar la comunicación con huéspedes
-
-- Objetivo Lean UX: Proveer a los huéspedes información clara y oportuna mediante notificaciones automáticas.
-
-- Resultado deseado: Los huéspedes abrirán y valorarán positivamente los mensajes de confirmación, recordatorios y agradecimientos.
-
-- Propósito: Aumentar la satisfacción y la fidelización a través de una comunicación proactiva.
-
-- Criterio de éxito: Que al menos el 60 % de los huéspedes afirme que las notificaciones mejoraron su experiencia.
-
-- Método de medición: Tasas de apertura de mensajes combinadas con encuestas post-estancia sobre la utilidad de las notificaciones.
-
-
-5. Incrementar la eficiencia administrativa
-
-- Objetivo Lean UX: Ayudar a los administradores a optimizar su tiempo mediante reportes dinámicos y centralización de operaciones.
-
-- Resultado deseado: Los administradores consultarán los reportes de ocupación e ingresos al menos una vez por semana.
-
-- Propósito: Mejorar la toma de decisiones estratégicas y reducir la carga operativa manual.
-
-- Criterio de éxito: Que al menos el 70 % de los administradores reporte una reducción en el tiempo de gestión operativa semanal.
-
-- Método de medición: Encuestas de percepción de eficiencia, análisis de logs de acceso a reportes y comparación del tiempo invertido en gestión antes y después de usar la plataforma.
-
-
-### Business Outcomes
-
-
-1. Adopción inicial de la plataforma en Lima Metropolitana
-
-- Lean UX Goal: Impulsar la adopción de Hostel Manager en hostales y pequeños hoteles de Lima Metropolitana durante el primer año de lanzamiento.
-
-- Propósito: Validar el encaje de mercado en un segmento urbano competitivo y establecer una base sólida de clientes locales que sirva como referencia para expandirse a otras ciudades del país.
-
-- Meta: Conseguir que el 10 % de los hostales y pequeños hoteles de Lima Metropolitana usen Hostel Manager activamente en un plazo de 12 meses, con un hito intermedio del 5 % al sexto mes.
-
-- Herramientas de medición: Registros de suscripciones activas en la plataforma, CRM y seguimiento en Google Analytics.
-
-- Métrica clave: Porcentaje de hostales con suscripción activa respecto al total estimado de establecimientos formales en Lima Metropolitana.
-
-
-2. Retención de clientes administradores
-
-- Lean UX Goal: Asegurar que los administradores encuentren valor recurrente en la plataforma para sostener su suscripción.
-
-- Propósito: Garantizar ingresos estables a través de la fidelización de clientes.
-
-- Meta: Alcanzar una tasa de retención mensual (MRR Retention Rate) del 75 % en los primeros 6 meses y del 85 % al cumplir el primer año.
-
-- Herramientas de medición: Métricas de facturación recurrente, cancelaciones de suscripción y cohortes de usuarios en el dashboard de pagos.
-
-- Métrica clave: Porcentaje de administradores que mantienen la suscripción activa tras cada ciclo de facturación mensual.
-
-
-3. Incremento de ingresos por suscripción
-
-- Lean UX Goal: Escalar el modelo de negocio basado en suscripciones para garantizar la sostenibilidad financiera.
-
-- Propósito: Lograr un crecimiento constante de ingresos que permita reinvertir en mejoras del producto y expansión.
-
-- Meta: Alcanzar un ingreso mensual recurrente (MRR) equivalente a 5,000 USD al cierre del primer año.
-
-- Herramientas de medición: Sistema de facturación interno y reportes financieros.
-
-- Métrica clave: MRR (Monthly Recurring Revenue) medido en dólares acumulados por suscripción activa.
-
-
-4. Reducción de costos operativos por soporte
-
-- Lean UX Goal: Minimizar la carga de soporte técnico gracias a un diseño de plataforma intuitivo.
-
-- Propósito: Mejorar la rentabilidad reduciendo gastos en asistencia recurrente.
-
-- Meta: Mantener un ratio máximo de 1 ticket de soporte por cada 5 administradores activos durante los primeros 12 meses.
-
-- Herramientas de medición: Sistema de registro de incidencias en la plataforma.
-
-- Métrica clave: Promedio de tickets de soporte abiertos por administrador activo en cada trimestre.
-
-
-5. Posicionamiento competitivo en el mercado local
-
-Lean UX Goal: Establecer a Hostel Manager como la solución de referencia para hostales independientes frente a competidores locales.
-
-Propósito: Diferenciar la propuesta mediante funcionalidades clave como check-in online, notificaciones automatizadas y reportes dinámicos.
-
-Meta: Lograr un 20 % de participación en el mercado de software de gestión para hostales independientes en Lima Metropolitana en los primeros 18 meses.
-
-Herramientas de medición: Estudios de mercado, encuestas a administradores y análisis comparativo de competidores.
-
-Métrica clave: Porcentaje estimado de cuota de mercado en el segmento de hostales independientes.
-
+- Los administradores de hostales necesitan herramientas tecnológicas fáciles de usar y de bajo costo.  
+- Los procesos manuales provocan una pérdida de tiempo, generan errores y generan una baja competitividad en comparación con las grandes cadenas. 
+- Una aplicación accesible que centralice sus operaciones puede resolver estas necesidades.
+- Los administradores podrán optimizar los ingresos, reducir los errores operativos y mejorar la satisfacción de los huéspedes. 
+- Los usuarios estarán dispuestos a pagar una suscripción mensual si les ayuda a aumentar la eficiencia y la rentabilidad.
 
 #### [1.2.2.3 Lean UX Hypothesis Statements](#lean-ux-hypothesis-statements)
 
-1. Adopción inicial de la plataforma en Lima Metropolitana (Business Outcome 1)
+1. Adopción inicial de la plataforma en Lima Metropolitana 
    
-Creemos que al ofrecer Hostel Manager como servicio de suscripción mensual o anual, al menos un 10 % de los hostales y pequeños hoteles de Lima Metropolitana se registrará y mantendrá activa su suscripción en los primeros 12 meses, alcanzando un 5 % al cierre del sexto mes.
+Creemos que al ofrecer Hostel Manager como servicio de suscripción mensual, al menos un 10 % de los hostales y pequeños hoteles de Lima Metropolitana se registrará y mantendrá activa su suscripción en los primeros 12 meses, alcanzando un 5 % al cierre del sexto mes.
 
 Si tenemos razón, veremos un crecimiento sostenido de altas en el CRM y en las suscripciones activas de la plataforma.
 
 Sabremos que tenemos razón si, a los 6 meses, alcanzamos una penetración mayor al 5 % (hostales suscritos sobre total de hostales identificados) y al cumplir 12 meses logramos superar el 10 %, con una tasa de cancelación inferior al 15 % mensual.
 
-2. Retención de clientes administradores (Business Outcome 2)
+2. Retención de clientes administradores 
    
-Creemos que al ofrecer un flujo de onboarding guiado, soporte en línea y reportes dinámicos de ocupación e ingresos, más del 75 % de los administradores conservará su suscripción activa en los primeros 6 meses y más del 85 % al cumplir un año.
+Creemos que al ofrecer una plataforma web tan intuitiva y sencilla que los administradores puedan usarla sin necesidad de ayuda, junto con reportes dinámicos de ocupación e ingresos, más del 75 % de los administradores conservará su suscripción activa en los primeros 6 meses y más del 85 % al cumplir un año.
 
 Si tenemos razón, observaremos estabilidad en el MRR y en las cohortes de usuarios que mantienen sus pagos activos.
 
-Sabremos que tenemos razón si la tasa de retención mensual se mantiene ≥ 75 % a los 6 meses y ≥ 85 % a los 12 meses, con encuestas que reflejen satisfacción ≥ 4/5 en utilidad de la plataforma.
+Sabremos que tenemos razón si más del 75 % de los administradores mantienen su suscripción activa en los primeros 6 meses, más del 85 % al cumplir un año, y los ingresos recurrentes crecen de forma sostenida mes a mes.
 
-3. Incremento de ingresos por suscripción (Business Outcome 3)
+3. Incremento de ingresos por suscripción 
    
-Creemos que gracias a la escalabilidad del modelo SaaS y la captación constante de nuevos clientes, Hostel Manager alcanzará un MRR equivalente a 5,000 USD al cierre del primer año.
+Creemos que gracias a la escalabilidad del modelo SaaS y la captación constante de nuevos clientes, Hostel Manager logrará un crecimiento significativo en su MRR durante el primer año.
 
 Si tenemos razón, los reportes financieros mostrarán un crecimiento constante en la facturación mensual.
 
-Sabremos que tenemos razón si los ingresos recurrentes crecen de forma sostenida mes a mes y alcanzamos la meta de 5,000 USD al mes al cumplir 12 meses de operación.
+Sabremos que tenemos razón si los ingresos recurrentes crecen de forma sostenida mes a mes y alcanzamos las metas establecidas para el cierre de los 12 meses de operación.
 
-4. Reducción de costos operativos por soporte (Business Outcome 4)
-
-Creemos que al diseñar una interfaz intuitiva con tutoriales integrados y FAQs accesibles, menos del 20 % de los administradores necesitará soporte recurrente para tareas básicas, manteniendo un ratio máximo de 1 ticket de soporte por cada 5 administradores activos.
+4. Reducción de costos operativos por soporte
+   
+Creemos que al diseñar una interfaz intuitiva con un video de demostracion y FAQs accesibles, menos del 20 % de los administradores necesitará soporte recurrente para tareas básicas, manteniendo un ratio máximo de 1 ticket de soporte por cada 5 administradores activos.
 
 Si tenemos razón, los tickets de soporte se concentrarán en funciones avanzadas en lugar de problemas de uso cotidiano.
 
@@ -560,9 +346,9 @@ Si tenemos razón, estudios de mercado y encuestas a administradores reflejarán
 
 Sabremos que tenemos razón si en el mes 18 obtenemos un 20 % de cuota de mercado estimada, validada mediante encuestas y análisis comparativo con soluciones existentes.
 
-
-
 #### [1.2.2.4 Lean UX Canvas](#lean-ux-canvas)
+
+<img src="/images/Lean UX Canvas.jpg" width= "400px">
 
 ## [1.3. Segmentos objetivo](#segmentos-objetivo)
 
