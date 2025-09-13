@@ -364,6 +364,107 @@ Sabremos que tenemos razón si en el mes 18 obtenemos un 20 % de cuota de mercad
 ### [2.1.2 Estrategias y tácticas frente a competidores](#estrategias-y-tácticas-frente-a-competidores)
 ## [2.2 Entrevistas](#entrevistas)
 ### [2.2.1 Diseño de entrevistas](#diseño-de-entrevistas)
+
+Con el fin de comprender a profundidad las necesidades, problemas y expectativas de nuestros usuarios potenciales, hemos realizado entrevistas a administradores de hoteles y huéspedes que se hospedan en establecimientos de mediana y pequeña escala.
+
+Para ello, les planteamos una serie de preguntas generales y específicas que nos permiten mapear su contexto, hábitos, experiencias previas y nivel de disposición hacia soluciones como nuestro sistema de gestión digital.
+
+Administradores de hoteles (pequeños y medianos).
+
+a) Preguntas Generales
+- ¿Cómo se llama su establecimiento y cuántas habitaciones administran?
+
+
+- ¿Cuál es su rol dentro del hostal/hotel?
+
+
+- ¿Actualmente cómo gestionan las reservas, check-in, check-out y servicios adicionales?
+
+
+- ¿Qué métodos de pago ofrecen a sus clientes?
+
+
+- ¿Han usado antes algún sistema digital para gestión? ¿Qué les gustó y qué no?
+
+
+b) Preguntas Específicas
+
+- ¿Cuáles son los principales problemas que enfrentan en la administración diaria (errores en reservas, pagos, comunicación, etc.)?
+
+
+- ¿Qué tan importante es para usted contar con reportes de ocupación, ingresos y satisfacción de clientes?
+
+
+
+- ¿Le resultaría útil contar con una plataforma que integre en un solo lugar reservas, pagos y comunicación con clientes?
+
+
+- Si tuviera un sistema que enviará notificaciones automáticas (ej. recordatorios de pago o llegada de clientes), ¿lo usaría?
+
+
+- ¿Qué tan dispuesto estaría a pagar una suscripción mensual por un sistema que le ahorre tiempo y evite pérdidas económicas?
+
+
+- ¿Qué funcionalidades considera más críticas para su negocio (control de habitaciones, facturación digital, integración con pasarelas de pago, etc.)?
+
+
+- ¿Cuánto tiempo diario invierte en la gestión manual de su hostal/hotel y cuánto le gustaría reducirlo?
+
+
+- ¿Le sería útil un sistema que le muestre estadísticas de temporadas altas y bajas para planificar precios?
+
+
+Huéspedes de hoteles
+
+a) Preguntas Generales
+
+- ¿Cómo te llamas y cuántos años tienes?
+
+
+- ¿Qué tan seguido te hospedas en hoteles/hostales (viajes de estudio, trabajo, turismo)?
+
+
+- ¿Cómo sueles buscar y reservar hospedajes (apps, webs, agencias, redes sociales)?
+
+
+- ¿Qué dispositivos utilizas más para buscar hospedajes (celular, laptop, tablet)?
+
+
+-¿Qué factores consideras más importantes al elegir un hospedaje (precio, ubicación, reseñas, servicios)?
+
+
+b) Preguntas Específicas
+
+-¿Has tenido alguna vez problemas con reservas manuales (ej. confusión al llegar, reservas no registradas)?
+
+
+-¿Qué tan importante es para ti poder reservar, pagar y solicitar servicios desde el celular sin llamadas o papeleo?
+
+
+-¿Qué servicios adicionales valoras más al hospedarte (desayuno, limpieza, lavandería, transporte, WiFi)?
+
+
+- ¿Qué tan útil te parecería que un sistema te confirme en tiempo real tu reserva y pago?
+
+
+- ¿Te gustaría recibir notificaciones automáticas con información de tu reserva, horarios de check-in y promociones?
+
+
+- ¿Qué canales digitales usas para validar la confianza de un hotel (reseñas en Google, Booking, Instagram, TikTok)?
+
+
+- ¿Qué fue lo que más te frustró en tu última experiencia de hospedaje y qué te gustaría que mejorara?
+
+
+- ¿Qué tan importante sería para ti poder chatear con el hotel directamente por la app antes y durante tu estancia?
+
+
+- ¿Si tuvieras que recomendar un hospedaje a un amigo, qué aspecto debería destacar para que lo recomiendes?
+
+
+- ¿Qué tanto confiarías en un sistema digital que centraliza todo (reserva, pago y comunicación con el hotel) en un solo lugar?
+
+
 ### [2.2.2 Registro de entrevistas](#registro-de-entrevistas)
 
 ### [2.2.3 Análisis de entrevistas](#análisis-de-entrevistas)
