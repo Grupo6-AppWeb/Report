@@ -557,6 +557,136 @@ Sabremos que tenemos razón si en el mes 18 obtenemos un 20 % de cuota de mercad
 
 
 ### [2.1.2 Estrategias y tácticas frente a competidores](#estrategias-y-tácticas-frente-a-competidores)
+
+Para destacar frente a competidores como Small Hotels Latin America, Samin PMS y Amenitiz y consolidar nuestra posición en el mercado de soluciones de gestión para hostales y pequeños hoteles, resulta imprescindible diseñar un conjunto de estrategias y tácticas coordinadas que refuercen la diferenciación de HostelManager, aumenten la adopción en LATAM y consoliden su escalabilidad.
+
+1. Desarrollo de una Propuesta de Valor Distintiva
+
+Estrategia:
+
+Posicionar a HostelManager como el PMS más simple y económico para hoteles y hostales de LATAM, ofreciendo en una sola plataforma las funciones esenciales (reservas, gestión de huéspedes, facturación y calendario de disponibilidad), sin necesidad de soporte externo ni configuraciones complejas.
+
+Tácticas:
+
+- Entrevistas con administradores de hostales (6–10) para identificar los puntos de dolor más frecuentes: sobreventa, errores de registro, dificultad para manejar pagos.
+
+- En cuestas masivas (200+) para validar cuáles son las funciones mínimas que realmente necesitan.
+
+- Pruebas A/B en landing pages con mensajes de valor: “gestión simple y sin complicaciones”, “reserva centralizada al mejor precio”.
+
+- Videos cortos mostrando cómo realizar un check-in digital o registrar una reserva en segundos.
+
+- Testimonios de hostales piloto que muestren beneficios concretos: reducción de errores y ahorro de tiempo.
+
+Indicadores de éxito:
+
+- Conversión en landing pages ≥ 12 %.
+
+- Score de valor percibido en encuestas ≥ 4.3/5.
+
+- Engagement en videos ≥ 40 % VTR y ≥ 60 % completitud.
+
+
+2. Optimización de la Experiencia de Usuario (UX)
+
+Estrategia:
+
+Diseñar una plataforma intuitiva y práctica que no requiera asistencia externa, garantizando que cualquier administrador pueda aprender a usarla en pocos minutos.
+
+Tácticas:
+
+- Diseñar flujos simples para tareas críticas: crear reserva, registrar huésped, emitir factura.
+
+- Prototipos testados con usuarios sin experiencia en PMS, en 3 rondas de validación.
+
+- Medir errores y tiempo de ejecución en tareas clave (check-in, reservas, reportes).
+
+- Integrar mejoras directamente en el diseño, priorizando la reducción de fricción.
+
+Indicadores de éxito:
+
+- SUS (System Usability Scale) > 80.
+
+- Tasa de error en tareas clave < 10 %.
+
+- Tiempo de check-in ≤ 2 minutos.
+
+3. Expansión de la Base de Usuarios
+
+Estrategia:
+
+Iniciar con hostales independientes de bajo presupuesto en LATAM y luego expandirse a pequeños hoteles familiares y B&B urbanos.
+
+Tácticas:
+
+- Definir subsegmentos principales:
+
+- Hostales económicos que buscan digitalizar su operación.
+
+- Pequeños hoteles familiares que necesitan control básico de reservas.
+
+- B&B urbanos que requieren un calendario centralizado.
+
+- Ofrecer un plan freemium con gestión básica de reservas y pago por módulos extra.
+
+- Programas piloto gratuitos de 1–2 meses en hostales estratégicos para generar testimonios y casos de uso.
+
+Indicadores de éxito:
+
+- Conversión de freemium a suscripción ≥ 18 %.
+
+- Penetración inicial en segmento hostales ≥ 10 % en 6 meses.
+
+- Tasa de referidos ≥ 20 %.
+
+4. Marketing Digital de Alta Precisión
+
+Estrategia:
+
+Atraer administradores de hostales y pequeños hoteles mediante campañas digitales que resalten la simplicidad y bajo costo, sin prometer soporte adicional.
+
+Tácticas:
+
+- Campañas en Facebook e Instagram dirigidas a emprendedores turísticos, dueños de hostales y pequeños hoteles.
+
+- Google Ads con keywords: “software hostales barato”, “gestión hotelera simple”.
+
+- Retargeting para visitantes de landing pages que no se registraron.
+
+- Publicar casos de éxito en formato carrusel y video con cifras concretas: “menos errores, más reservas directas”.
+
+Indicadores de éxito:
+
+- ROAS ≥ 3.5x.
+
+- CPA ≤ S/ 45.
+
+- CTR en anuncios de video ≥ 2.5 %.
+
+5. Alianzas Comerciales y Cooperaciones Estratégicas
+
+Estrategia:
+
+Aumentar la visibilidad y adopción de HostelManager mediante convenios con actores del ecosistema turístico y educativo.
+
+Tácticas:
+
+- Convenios con asociaciones de hostales y cámaras de turismo en LATAM.
+
+- Alianzas con universidades y escuelas de hotelería para integrar HostelManager en cursos.
+
+- Participación en ferias de turismo y tecnología hotelera.
+
+- Programa de comisiones para consultores turísticos que recomienden la herramienta.
+
+Indicadores de éxito:
+
+- ≥ 15 alianzas estratégicas en el primer año.
+
+- Ventas vía alianzas ≥ 20 % del total.
+
+- Conversión en eventos ≥ 30 % de asistentes interesados.
+
 ## [2.2 Entrevistas](#entrevistas)
 ### [2.2.1 Diseño de entrevistas](#diseño-de-entrevistas)
 
