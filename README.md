@@ -436,7 +436,7 @@ Sabremos que tenemos razón si en el mes 18 obtenemos un 20 % de cuota de mercad
     </tr>
     <tr>
       <td>Canales de distribución</td>
-      <td>Plataforma web y app móvil con soporte en español y portugués.</td>
+      <td>Plataforma web con soporte en español.</td>
       <td>Web responsive y app móvil limitada, SaaS directo.</td>
       <td>Plataforma web completa + app móvil para staff, SaaS.</td>
       <td>Web + app móvil básica, distribución online con onboarding guiado.</td>
