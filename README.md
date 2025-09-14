@@ -384,10 +384,10 @@ Sabremos que tenemos razón si en el mes 18 obtenemos un 20 % de cuota de mercad
     </tr>
     <tr>
       <td colspan="2"></td>
-      <td><strong>Hostel Manager</strong></td>
-      <td><strong>Small Hotels Latin America</strong></td>
-      <td><strong>Samin PMS</strong></td>
-      <td><strong>Amenitiz</strong></td>
+      <td><strong>Hostel Manager</strong><img src="/images/HotelManager.jpeg" alt="Hotel Manager logo"></td>
+      <td><strong>Small Hotels Latin America</strong><img src="/images/hotel.png" alt="Competidor1"></td>
+      <td><strong>Samin PMS</strong><img src="/images/hotel2.png" alt="Competidor2"></td>
+      <td><strong>Amenitiz</strong><img src="/images/hotel3.jpeg" alt="Competidor3"></td>
     </tr>
     <tr>
       <td rowspan="2"><strong>Perfil</strong></td>
