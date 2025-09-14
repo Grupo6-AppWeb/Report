@@ -369,6 +369,193 @@ Sabremos que tenemos razón si en el mes 18 obtenemos un 20 % de cuota de mercad
 # [**Capítulo II: Requirements Elicitation \& Analysis**](#capítulo-ii-requirements-elicitation--analysis)
 # [2.1 Competidores](#competidores)
 ### [2.1.1 Análisis competitivo](#análisis-competitivo)
+
+<table border="1" style="text-align: center; border-collapse: collapse; width: 100%;">
+  <tbody>
+    <tr>
+      <td colspan="6"><strong>Competitive Analysis Landscape</strong></td>
+    </tr>
+    <tr>
+      <td colspan="2"><strong>¿Por qué llevar a cabo este análisis?</strong></td>
+      <td colspan="4">
+        Este análisis nos permitirá identificar las fortalezas y carencias de los competidores actuales en el sector hotelero,
+        para posicionar a <strong>Hostel Manager</strong> como la solución más accesible, escalable y adaptada a hostales y pequeños hoteles en LATAM.
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2"></td>
+      <td><strong>Hostel Manager</strong></td>
+      <td><strong>Small Hotels Latin America</strong></td>
+      <td><strong>Samin PMS</strong></td>
+      <td><strong>Amenitiz</strong></td>
+    </tr>
+    <tr>
+      <td rowspan="2"><strong>Perfil</strong></td>
+      <td>Overview</td>
+      <td>Plataforma web moderna para gestión de reservas, huéspedes e inventario de habitaciones en hostales y pequeños hoteles, con foco en simplicidad, bajo costo y escalabilidad en LATAM.</td>
+      <td>Software hotelero para hoteles boutique y medianos, con foco regional y funcionalidades básicas de gestión, reservas y reportes.</td>
+      <td>PMS robusto orientado a hoteles medianos y grandes, con herramientas avanzadas de housekeeping, reportes e integraciones globales.</td>
+      <td>Plataforma todo en uno que integra PMS, motor de reservas, channel manager y creador de páginas web, enfocada en pequeños hoteles y B&Bs.</td>
+    </tr>
+    <tr>
+      <td>Ventaja competitiva / Valor</td>
+      <td>Accesible, fácil de usar, soporte cultural y regional para hostales en LATAM. Permite digitalizar procesos sin grandes inversiones.</td>
+      <td>Experiencia consolidada en la región, solución confiable para hoteles boutique con mayor presupuesto.</td>
+      <td>Escalabilidad, integraciones avanzadas y funcionalidades completas para cadenas y hoteles de gran operación.</td>
+      <td>Simplicidad, solución integral y rápida adopción, con fuerte enfoque en reservas directas y digitalización rápida.</td>
+    </tr>
+    <tr>
+      <td rowspan="2"><strong>Perfil de Marketing</strong></td>
+      <td>Mercado objetivo</td>
+      <td>Hostales y pequeños hoteles independientes con menos de 30 habitaciones en LATAM, que operan aún con sistemas manuales.</td>
+      <td>Hoteles pequeños y medianos (20–100 habitaciones) en zonas turísticas de LATAM.</td>
+      <td>Hoteles medianos y grandes (50+ habitaciones), cadenas hoteleras y resorts.</td>
+      <td>Pequeños hoteles, hostales y B&Bs (menos de 50 habitaciones) en Europa y LATAM.</td>
+    </tr>
+    <tr>
+      <td>Estrategias de marketing</td>
+      <td>Marketing digital segmentado, alianzas con asociaciones de turismo, y modelo freemium para captar pequeños hostales.</td>
+      <td>Ferias de turismo, alianzas con cámaras hoteleras, marketing B2B directo.</td>
+      <td>Presencia en ferias internacionales, alianzas con cadenas hoteleras, promoción en medios especializados.</td>
+      <td>Marketing digital intensivo, inbound con tutoriales y casos de éxito, fuerte presencia en redes sociales.</td>
+    </tr>
+    <tr>
+      <td rowspan="3"><strong>Perfil de Producto</strong></td>
+      <td>Productos & Servicios</td>
+      <td>Gestión de reservas, huéspedes, inventario, reportes básicos, soporte multicanal y conexión con OTAs.</td>
+      <td>Motor de reservas online, gestión de ocupación, reportes financieros básicos e integración con Booking/Expedia.</td>
+      <td>Gestión avanzada de reservas, housekeeping, reportes detallados, integraciones con OTAs y soporte multi-sucursal.</td>
+      <td>PMS básico, motor de reservas directo, channel manager, creador de páginas web, facturación y pagos online.</td>
+    </tr>
+    <tr>
+      <td>Precios & Costos</td>
+      <td>Planes accesibles y flexibles según tamaño; orientado a pequeños negocios con bajo presupuesto.</td>
+      <td>Suscripción mensual alta, escalada por habitaciones; costo adicional por integraciones.</td>
+      <td>Precio elevado, suscripción mensual/anual por número de habitaciones; módulos premium aparte.</td>
+      <td>Suscripción mensual accesible, escalada según servicios; sin grandes costos iniciales.</td>
+    </tr>
+    <tr>
+      <td>Canales de distribución</td>
+      <td>Plataforma web y app móvil con soporte en español y portugués.</td>
+      <td>Web responsive y app móvil limitada, SaaS directo.</td>
+      <td>Plataforma web completa + app móvil para staff, SaaS.</td>
+      <td>Web + app móvil básica, distribución online con onboarding guiado.</td>
+    </tr>
+    <tr>
+      <td rowspan="4"><strong>Análisis SWOT</strong></td>
+      <td>Fortalezas</td>
+      <td>
+        <ul>
+          <li>Precios accesibles.</li>
+          <li>Enfoque en hostales pequeños de LATAM.</li>
+          <li>Plataforma simple y escalable.</li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+          <li>Presencia regional consolidada.</li>
+          <li>Conexión con OTAs internacionales.</li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+          <li>Plataforma robusta y escalable.</li>
+          <li>Integraciones con OTAs globales.</li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+          <li>Todo en uno (PMS + web + reservas).</li>
+          <li>Fácil de usar y rápida adopción.</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>Debilidades</td>
+      <td>
+        <ul>
+          <li>Menos funciones avanzadas.</li>
+          <li>Menor presencia internacional.</li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+          <li>No apto para hostales pequeños.</li>
+          <li>Precios altos.</li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+          <li>Costo elevado.</li>
+          <li>Curva de aprendizaje alta.</li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+          <li>PMS limitado frente a opciones más robustas.</li>
+          <li>Menos personalizable.</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>Oportunidades</td>
+      <td>
+        <ul>
+          <li>Aprovechar la digitalización en LATAM.</li>
+          <li>Captar segmento desatendido de micro-hoteles.</li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+          <li>Expansión a micro-hoteles.</li>
+          <li>Crecimiento turístico regional.</li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+          <li>Versión ligera para pequeños hoteles.</li>
+          <li>Demanda de soluciones integradas.</li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+          <li>Expansión en LATAM.</li>
+          <li>Integrar nuevas tecnologías (IA, check-in online).</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>Amenazas</td>
+      <td>
+        <ul>
+          <li>Competidores globales con mayor alcance.</li>
+          <li>Expectativas de mayor sofisticación.</li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+          <li>Competencia de soluciones más baratas.</li>
+          <li>Entrada de players globales.</li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+          <li>Competidores accesibles y simples.</li>
+          <li>Mercado saturado de PMS.</li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+          <li>Competidores regionales más baratos.</li>
+          <li>Falta de escalabilidad para clientes en crecimiento.</li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+
+
 ### [2.1.2 Estrategias y tácticas frente a competidores](#estrategias-y-tácticas-frente-a-competidores)
 ## [2.2 Entrevistas](#entrevistas)
 ### [2.2.1 Diseño de entrevistas](#diseño-de-entrevistas)
