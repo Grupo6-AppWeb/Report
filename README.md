@@ -636,23 +636,23 @@ Posicionar a HostelManager como el PMS más simple y económico para hoteles y h
 
 Tácticas:
 
-- Entrevistas con administradores de hostales (6–10) para identificar los puntos de dolor más frecuentes: sobreventa, errores de registro, dificultad para manejar pagos.
+- Entrevistas con administradores para identificar problemas clave (sobreventa, errores, pagos).
 
-- En cuestas masivas (200+) para validar cuáles son las funciones mínimas que realmente necesitan.
+- Encuestas masivas para validar funciones mínimas necesarias.
 
-- Pruebas A/B en landing pages con mensajes de valor: “gestión simple y sin complicaciones”, “reserva centralizada al mejor precio”.
+- Pruebas A/B en landing pages con mensajes directos.
 
-- Videos cortos mostrando cómo realizar un check-in digital o registrar una reserva en segundos.
+- Videos cortos demostrativos.
 
-- Testimonios de hostales piloto que muestren beneficios concretos: reducción de errores y ahorro de tiempo.
+- Testimonios de clientes piloto.
 
 Indicadores de éxito:
 
 - Conversión en landing pages ≥ 12 %.
 
-- Score de valor percibido en encuestas ≥ 4.3/5.
+- Valor percibido en encuestas ≥ 4.3/5.
 
-- Engagement en videos ≥ 40 % VTR y ≥ 60 % completitud.
+- Engagement en videos ≥ 40 % visualización.
 
 
 2. Optimización de la Experiencia de Usuario (UX)
@@ -663,13 +663,11 @@ Diseñar una plataforma intuitiva y práctica que no requiera asistencia externa
 
 Tácticas:
 
-- Diseñar flujos simples para tareas críticas: crear reserva, registrar huésped, emitir factura.
+- Flujos simples para tareas críticas (reservas, check-in, facturación).
 
-- Prototipos testados con usuarios sin experiencia en PMS, en 3 rondas de validación.
+- Testeo con usuarios sin experiencia en 3 rondas.
 
-- Medir errores y tiempo de ejecución en tareas clave (check-in, reservas, reportes).
-
-- Integrar mejoras directamente en el diseño, priorizando la reducción de fricción.
+- Medición de errores y tiempos para mejorar la interfaz.
 
 Indicadores de éxito:
 
@@ -687,17 +685,11 @@ Iniciar con hostales independientes de bajo presupuesto en LATAM y luego expandi
 
 Tácticas:
 
-- Definir subsegmentos principales:
+- Flujos simples para tareas críticas (reservas, check-in, facturación).
 
-- Hostales económicos que buscan digitalizar su operación.
+- Testeo con usuarios sin experiencia en 3 rondas.
 
-- Pequeños hoteles familiares que necesitan control básico de reservas.
-
-- B&B urbanos que requieren un calendario centralizado.
-
-- Ofrecer un plan freemium con gestión básica de reservas y pago por módulos extra.
-
-- Programas piloto gratuitos de 1–2 meses en hostales estratégicos para generar testimonios y casos de uso.
+- Medición de errores y tiempos para mejorar la interfaz.
 
 Indicadores de éxito:
 
@@ -711,17 +703,15 @@ Indicadores de éxito:
 
 Estrategia:
 
-Atraer administradores de hostales y pequeños hoteles mediante campañas digitales que resalten la simplicidad y bajo costo, sin prometer soporte adicional.
+Atraer administradores mediante campañas enfocadas en simplicidad y bajo costo, sin prometer soporte extra.
 
 Tácticas:
 
-- Campañas en Facebook e Instagram dirigidas a emprendedores turísticos, dueños de hostales y pequeños hoteles.
+- Publicidad en Facebook, Instagram y Google Ads.
 
-- Google Ads con keywords: “software hostales barato”, “gestión hotelera simple”.
+- Retargeting para visitantes no convertidos.
 
-- Retargeting para visitantes de landing pages que no se registraron.
-
-- Publicar casos de éxito en formato carrusel y video con cifras concretas: “menos errores, más reservas directas”.
+- Casos de éxito en formatos visuales (videos, carruseles).
 
 Indicadores de éxito:
 
@@ -739,13 +729,13 @@ Aumentar la visibilidad y adopción de HostelManager mediante convenios con acto
 
 Tácticas:
 
-- Convenios con asociaciones de hostales y cámaras de turismo en LATAM.
+- Convenios con asociaciones y cámaras de turismo.
 
-- Alianzas con universidades y escuelas de hotelería para integrar HostelManager en cursos.
+- Alianzas con universidades y escuelas de hotelería.
 
-- Participación en ferias de turismo y tecnología hotelera.
+- Participación en ferias y eventos.
 
-- Programa de comisiones para consultores turísticos que recomienden la herramienta.
+- Programa de comisiones para consultores.
 
 Indicadores de éxito:
 
