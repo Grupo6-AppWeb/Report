@@ -227,25 +227,23 @@ Ser la plataforma líder en gestión digital para hostales y hoteles en latinoam
 
 ## [1.2 Solution Profile](#solution-profile)
 
-En Hostel Manager nos dedicamos a diseñar soluciones tecnológicas modernas y accesibles que simplifiquen y optimicen la gestión hotelera para hostales y pequeños hoteles. Somos conscientes de los principales desafíos que enfrentan los administradores independientes, como la complejidad operativa, la dispersión de herramientas digitales y la dificultad para ofrecer un servicio ágil y personalizado. Por eso, hemos creado una plataforma web integral que centraliza la administración de reservas, huéspedes y servicios complementarios, facilitando el control diario y la toma de decisiones estratégicas.
+En Hostel Manager nos dedicamos a diseñar soluciones tecnológicas modernas y accesibles que simplifican y optimizan la gestión hotelera en hostales y pequeños hoteles. Entendemos los desafíos que enfrentan los administradores independientes: la complejidad operativa, la dispersión de herramientas digitales y la dificultad para ofrecer un servicio ágil y personalizado. Por ello, desarrollamos una plataforma web integral que centraliza la administración de reservas, huéspedes y servicios complementarios, facilitando tanto el control diario como la toma de decisiones estratégicas.
 
-Nuestra solución integra funcionalidades clave que permiten:
+Nuestra solución integra funcionalidades clave como:
 
 - Gestión en tiempo real de reservas y disponibilidad, evitando sobreventas y errores en la asignación de habitaciones o servicios.
 
-- Control centralizado de pagos y emisión automática de comprobantes, con integración a pasarelas seguras para pagos online y registro de pagos presenciales.
+- Control centralizado de pagos y emisión automática de comprobantes, con integración a pasarelas de pago seguras como PayPal y registro de pagos presenciales.
 
 - Módulo de opiniones y calificaciones, que promueve la retroalimentación directa y mejora continua de la experiencia del huésped.
 
-- Reportes dinámicos y personalizados que ofrecen información detallada sobre ocupación, ingresos, desempeño del personal y utilización de servicios.
+- Reportes dinámicos y personalizados, con información sobre ocupación, ingresos y uso de servicios adicionales.
 
-- Configuración flexible de promociones y paquetes turísticos, para atraer clientes con ofertas atractivas y aumentar la rentabilidad.
+- Configuración flexible de promociones y tarifas, para atraer nuevos clientes y mejorar la rentabilidad del alojamiento.
 
-La plataforma está desarrollada con tecnologías web modernas que garantizan una experiencia intuitiva, segura y responsiva, accesible desde cualquier dispositivo con conexión a internet. Además, cuenta con funcionalidades para la gestión multicanal, integrándose con portales externos de reserva y sistemas de comunicación para notificaciones automáticas por correo o WhatsApp.
+La plataforma está desarrollada con tecnologías web modernas, garantizando una experiencia intuitiva, segura y responsiva, accesible desde cualquier dispositivo con conexión a internet.
 
-Nuestro modelo de negocio se basa en la suscripción mensual, adaptada a las necesidades y tamaño de cada alojamiento, complementada con comisiones por reservas procesadas y opciones de publicidad premium para quienes desean mayor visibilidad.
-
-Con Hostel Manager, aspiramos a transformar la gestión hotelera independiente en América Latina, facilitando que los administradores dediquen más tiempo a brindar experiencias memorables, mientras nuestra plataforma se encarga de la eficiencia operativa y el control inteligente de sus negocios.
+Con Hostel Manager, aspiramos a transformar la gestión hotelera independiente en América Latina, permitiendo que los administradores dediquen más tiempo a ofrecer experiencias memorables, mientras nuestra plataforma se encarga de la eficiencia operativa y el control inteligente del negocio.
 
 ### [1.2.1 Antecedentes y Problemática](#antecedentes-y-problemática)
 
