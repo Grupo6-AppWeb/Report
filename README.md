@@ -819,8 +819,6 @@ Mencionó que los problemas principales son las reservas duplicadas y la falta d
 ### [2.2.3 Análisis de entrevistas](#análisis-de-entrevistas)
 ## [2.3 Needfinding](#needfinding)
 
-
-
 ### [2.3.1 User Personas](#user-personas)
 
 #### Segmento Objetivo: Administrador/a
@@ -875,6 +873,33 @@ Mencionó que los problemas principales son las reservas duplicadas y la falta d
 <img src="/images/To-BeProductor.jpg">
 
 ## [2.4 Ubiquitous Language](#ubiquitous-language)
+
+| **Término**                                | **Definición**                                                                                                                                                                |
+| ------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Administrador**                          | Persona encargada de gestionar un hostal o pequeño hotel. Es el usuario principal de la plataforma Hostel Manager. Puede ser el propietario o un trabajador asignado.         |
+| **Huésped**                                | Cliente que se aloja en el establecimiento. Su experiencia debe ser fluida, rápida y digitalizada, desde la reserva hasta el check-out.                                       |
+| **Reserva**                                | Proceso por el cual un huésped solicita y asegura una habitación. Puede ser realizada manualmente o a través de canales digitales.                                            |
+| **Check-in / Check-out**                   | Proceso de entrada/salida del huésped. Hostel Manager permite automatizar este flujo con formularios digitales, notificaciones y validación de identidad.                     |
+| **Sobreventa**                             | Error en la gestión de reservas que genera múltiples asignaciones para una misma habitación en el mismo periodo. Uno de los principales problemas que resuelve la plataforma. |
+| **Disponibilidad**                         | Estado de ocupación de las habitaciones. La plataforma gestiona esta información en tiempo real para evitar errores.                                                          |
+| **Servicios Adicionales**                  | Productos o servicios complementarios al hospedaje, como desayuno, lavandería, tours, transporte, etc. También se gestionan desde la plataforma.                              |
+| **Pasarela de Pago**                       | Sistema que permite recibir pagos de forma electrónica, segura y eficiente. Se integra con Hostel Manager para transacciones online o presenciales.                           |
+| **MRR (Monthly Recurring Revenue)**        | Ingreso mensual recurrente derivado del modelo de suscripción de Hostel Manager.                                                                                              |
+| **Churn Rate**                             | Porcentaje de clientes que cancelan su suscripción en un periodo determinado. Indicador clave de retención.                                                                   |
+| **Panel de Control**                       | Interfaz principal donde el administrador visualiza el estado del hostal, reservas, pagos y reportes clave.                                                                   |
+| **Reportes Dinámicos**                     | Informes generados automáticamente por la plataforma, que permiten visualizar métricas como ocupación, ingresos, desempeño del personal, etc.                                 |
+| **Suscripción Mensual**                    | Modelo de negocio basado en pagos periódicos que da acceso al sistema y a sus funcionalidades.                                                                                |
+| **Intuitivo**                              | Diseño de interfaz amigable y fácil de usar, que requiere poca o ninguna capacitación técnica para operar.                                                                    |
+| **Automatización**                         | Eliminación de tareas manuales mediante procesos digitales que se ejecutan de forma autónoma o programada.                                                                    |
+| **Integración**                            | Capacidad de la plataforma para conectarse con otras herramientas o servicios (Booking, pasarelas, sistemas contables, etc.).                                                 |
+| **Notificaciones Automatizadas**           | Mensajes enviados automáticamente al huésped o administrador (por correo, WhatsApp, etc.) para confirmar reservas, recordar pagos, etc.                                       |
+| **Opiniones/Calificaciones**               | Comentarios dejados por los huéspedes después de su estadía, visibles en el módulo de retroalimentación.                                                                      |
+| **Hostal/Hospedaje Independiente**         | Establecimiento de alojamiento pequeño o mediano, que no forma parte de una cadena hotelera. Público objetivo principal de Hostel Manager.                                    |
+| **Check-in Online**                        | Proceso digital que permite al huésped registrarse antes de llegar, agilizando su ingreso al hostal.                                                                          |
+| **FAQs**                                   | Sección de preguntas frecuentes que ayuda al administrador a resolver dudas sin necesidad de contactar soporte.                                                               |
+| **CRM (Customer Relationship Management)** | Sistema que gestiona la relación con clientes, usado en Hostel Manager para seguimiento de huéspedes y administración de contactos.                                           |
+
+
 
 # [Capítulo III: Requirements Specification.](#capítulo-iii-requirements-specification)
 ## [3.1. To-Be Scenario Mapping.](#to-be-scenario-mapping)
