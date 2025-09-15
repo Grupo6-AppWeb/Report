@@ -819,7 +819,11 @@ Mencionó que los problemas principales son las reservas duplicadas y la falta d
 ### [2.2.3 Análisis de entrevistas](#análisis-de-entrevistas)
 ## [2.3 Needfinding](#needfinding)
 
+En esta sección presentamos los artefactos generados a partir del análisis exhaustivo de la información recopilada en las entrevistas: perfiles de User Personas, User Task Matrix, User Journey Maps, Empathy Mapping y As-Is Scenario Mapping. Cada uno de estos elementos refleja las necesidades, motivaciones y puntos de dolor identificados, y sirve como base para definir soluciones de diseño centradas en el usuario. Al mostrar estos entregables, buscamos asegurar que todas las decisiones de producto se fundamenten en datos cualitativos sólidos y en una comprensión profunda de los comportamientos reales de nuestros usuarios.
+
 ### [2.3.1 User Personas](#user-personas)
+
+En esta sección presentamos la construcción de las fichas de User Persona para los dos segmentos clave de nuestro proyecto: administradores de hostales y huéspedes. Estas fichas se basan en un análisis detallado de los comportamientos, necesidades y desafíos típicos de cada grupo, combinando información demográfica y psicográfica para comprender mejor sus expectativas. Esto nos permite orientar el diseño de Hostel Manager hacia funcionalidades que faciliten la gestión eficiente para los administradores y una experiencia digital fluida y satisfactoria para los huéspedes.
 
 #### Segmento Objetivo: Administrador/a
 
@@ -908,6 +912,8 @@ En esta sección presentamos el glosario de Lenguaje Ubicuo, conformado por los 
 # [Capítulo III: Requirements Specification.](#capítulo-iii-requirements-specification)
 ## [3.1. To-Be Scenario Mapping.](#to-be-scenario-mapping)
 
+En esta sección se realiza el proceso metodológico y los hallazgos del To-Be Scenario Mapping, una herramienta clave para diseñar la experiencia futura de los segmentos Administradores y Huéspedes, y contrastarla con el escenario actual (As-Is). Basándonos en un análisis detallado de los mapas As-Is, proyectamos las acciones, pensamientos y emociones de los usuarios en las fases del proceso, reflejadas en las filas Phases, Doing, Thinking y Feeling, para mostrar cómo Hostel Manager mejorará y transformará cada etapa de la interacción.
+
 ### Segmento Objetivo : Productor
 
 <img src="/images/As-IsHuesped.jpg">
@@ -917,6 +923,8 @@ En esta sección presentamos el glosario de Lenguaje Ubicuo, conformado por los 
 <img src="/images/To-BeHuesped.jpg">
 
 ## [3.2. User Stories.](#user-stories)
+
+En esta sección describimos la estructura y el propósito de nuestras User Stories y Epics, que formalizan los requisitos identificados para Hostel Manager. Nuestro objetivo es traducir las necesidades y expectativas de los segmentos “Administradores”, “Huéspedes” y visitantes de la Landing Page en historias accionables que aseguren la satisfacción plena de los usuarios finales. Cada Epic agrupa funcionalidades de alto nivel y actúa como contenedor lógico para un conjunto de User Stories, que representan incrementos de valor independientes y verificables. Cada historia estará acompañada por criterios de aceptación escritos en formato Gherkin (Given–When–Then), garantizando una definición clara y comprobable de las condiciones de éxito.
 
 | EPIC ID | Título                         | Descripción |
 |---------|--------------------------------|-------------|
