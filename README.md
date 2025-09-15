@@ -831,6 +831,8 @@ Mencionó que los problemas principales son las reservas duplicadas y la falta d
 
 ### [2.3.2 User Task Matrix](#user-task-matrix)
 
+El User Task Matrix nos permite identificar las acciones clave que realizan los administradores de hostales y los huéspedes durante su experiencia de gestión u hospedaje, sin suponer aún la existencia de una solución digital. A través de esta matriz, analizamos cada tarea según su frecuencia y nivel de importancia, lo cual nos permite priorizar funcionalidades en Hostel Manager que respondan directamente a los procesos más críticos y frecuentes para cada segmento, asegurando así un diseño funcional alineado con sus necesidades reales.
+
 #### Segmento Objetivo: Administrador/a
 
 | Actividades                                               | Frecuencia | Importancia |
@@ -863,6 +865,8 @@ Mencionó que los problemas principales son las reservas duplicadas y la falta d
 ### [2.3.3 User Journey Mapping](#user-journey-mapping)
 ### 2.3.4. Empathy Mapping.
 ### 2.3.5. As-is Scenario Mapping.
+
+El As-Is Scenario Mapping es una herramienta clave en Hostel Manager para analizar cómo los administradores de hostales y hoteles pequeños actualmente gestionan sus operaciones sin tecnología integrada. A través de esta metodología, se identifican paso a paso sus acciones (Doing), pensamientos (Thinking) y emociones (Feeling) en tareas como reservas, check-in o cobros, lo que permite detectar puntos de dolor, ineficiencias y oportunidades de mejora que guían el diseño de una solución digital centrada en sus necesidades reales.
 
 ### Segmento Objetivo : Productor
 
