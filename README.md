@@ -247,24 +247,94 @@ Con Hostel Manager, aspiramos a transformar la gestión hotelera independiente e
 
 ### [1.2.1 Antecedentes y Problemática](#antecedentes-y-problemática)
 
-El sector de hostales y hoteles independientes en América Latina representa una parte significativa de la oferta turística, contribuyendo de manera importante a la economía regional y a la experiencia cultural de los visitantes. Sin embargo, estos alojamientos enfrentan serios desafíos en su gestión operativa debido al uso mayoritario de procesos manuales y sistemas fragmentados, lo que conduce a errores en la asignación de habitaciones, sobreventa y demoras en servicios esenciales como check-in, limpieza y cobros. Estas deficiencias impactan negativamente en la satisfacción del huésped y la rentabilidad del negocio.
+En el sector turístico, hostales y hoteles enfrentan limitaciones tecnológicas significativas. muchos aún gestionan sus reservas, huéspedes y servicios adicionales de manera manual o con herramientas poco integradas, lo que genera errores, duplicidad de información y una pérdida constante de oportunidades de ingreso. Estudios recientes señalan que la transformación digital en la hospitalidad aumenta la eficiencia operativa y puede reducir los tiempos de check-in/check-out hasta en un 30%, además de mejorar la precisión en procesos críticos (ResearchGate, 2024).
 
-A esto se suma la limitada adopción de tecnologías que faciliten la integración de operaciones y permitan un control en tiempo real, situación que es aún más crítica en alojamientos gestionados por administradores novatos o con escasa experiencia digital. La falta de capacitación y apoyo técnico genera una alta tasa de abandono y rotación en la gestión, afectando la continuidad y calidad del servicio. Por otro lado, la ausencia de sistemas de pago electrónicos seguros y la baja implementación de análisis de datos restringen la capacidad de atraer turistas internacionales y optimizar la toma de decisiones.
+Al mismo tiempo, los huéspedes actuales esperan experiencias digitales rápidas y personalizadas, como check-in móvil, pagos en línea y la posibilidad de solicitar servicios desde su propio dispositivos, lo cual ya se ha convertido en un estándar de la industria (Linkedin, 2024). Sin embargo, la adopción de estas tecnologías por parte de hoteles sigue siendo limitada debido a costos altos y a la falta de capacidades internas para implementarlas.
 
-En contraste, la industria hotelera de mayor escala ya cuenta con soluciones tecnológicas avanzadas que mejoran la eficiencia y experiencia del cliente, evidenciando una brecha significativa que dificulta la competitividad del sector independiente. El mercado tecnológico para la digitalización de estos alojamientos está en crecimiento, lo que presenta una oportunidad para desarrollar plataformas accesibles, integradas y adaptadas a las necesidades específicas de estos negocios, promoviendo su sostenibilidad y profesionalización.
+En este contexto, Hostel Manager surge para cerrar esa brecha: ofrece una solución integral, accesibilidad y escalable que digitaliza la gestión hotelera y mejora la eficiencia operativa.
 
-Frente a este escenario, es fundamental analizar en profundidad las causas y consecuencias de estas deficiencias mediante la metodología de las 5Ws y 2Hs, lo que permitirá diseñar soluciones integrales que mejoren la gestión operativa, incrementen la satisfacción del huésped y fortalezcan la posición del sector independiente en el mercado turístico.
+The 5 “W's
 
+1. What (Qué):
 
-| Guía de las 5Ws y 2Hs | Preguntas                                                                                          | Descripción                                                                                                                                                                                                                                                                                                                                                      |
-|-----------------------|----------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| What?                | ¿Cuál es el problema principal que se busca resolver?                                              | La gestión operativa fragmentada y manual en hostales y hoteles independientes, que genera errores en la asignación de habitaciones, sobreventa, demoras en servicios clave como check-in, limpieza y cobros, afectando la rentabilidad y experiencia del huésped.                                                                                                |
-| Why?                 | ¿Por qué es importante resolverlo? ¿Qué consecuencias tiene si no se soluciona?                    | Porque impacta directamente en la satisfacción del huésped, la eficiencia operativa y la competitividad del alojamiento. La falta de digitalización y capacitación genera pérdida de clientes, reducción de ingresos y alta rotación en la gestión, lo que limita la sostenibilidad y crecimiento del sector independiente.                                         |
-| Where?               | ¿En qué contextos o lugares se manifiesta esta problemática?                                       | En hostales y hoteles independientes de América Latina, especialmente en zonas turísticas con baja infraestructura tecnológica y en establecimientos gestionados por administradores con poca experiencia en herramientas digitales.                                                                                        |
-| When?                | ¿Cuándo ocurre este problema? ¿En qué momento se vuelve más crítico?                               | El problema se agrava en temporadas altas de turismo y en fases iniciales de administración, cuando la demanda y la complejidad operativa aumentan, así como cuando hay poca capacitación previa o apoyo técnico disponible para los administradores.                                                                        |
-| Who?                 | ¿Quiénes están afectados directa o indirectamente?                                                 | Los propietarios y administradores de alojamientos independientes, especialmente aquellos sin experiencia tecnológica, así como los huéspedes que sufren retrasos, errores o mala calidad en el servicio. También afecta al sector turístico local por la pérdida de competitividad.                                       |
-| How?                 | ¿Cómo se manifiesta o podría resolverse este problema?                                              | Actualmente se manifiesta por medio de procesos manuales, hojas de cálculo y sistemas desconectados. Podría resolverse mediante el desarrollo e implementación de una plataforma digital integrada que automatice asignaciones, gestione servicios en tiempo real, incluya pasarelas de pago seguras y ofrezca análisis para la toma de decisiones. |
-| How much?            | ¿Cuál es la magnitud e impacto del problema? ¿Qué datos cuantifican la dimensión del problema?     | Se estima que más del 50% de los alojamientos independientes enfrentan problemas de sobreventa y demoras que afectan ingresos. La rotación de administradores puede superar el 40% anual. La baja adopción tecnológica limita la captación de turistas internacionales, representando pérdidas significativas en un mercado turístico regional valorado en miles de millones. |
+¿Cual es el problema?
+
+En el sector turístico, los hostales y hoteles enfrentan problemas al gestionar reservas, huéspedes y servicios adicionales, la mayoría utiliza procesos manuales o herramientas poco integradas, lo que genera errores, pérdida de ingreso y una experiencia deficiente para los huéspedes. Además, los viajeros esperan soluciones digitales como reservas en línea, pagos seguros y solicitudes rápidas de servicio, lo cual muchas veces no está disponible en este segmento.
+
+¿Cuál es la relación con la persona en cuestión?
+
+Administrador: utiliza la plataforma para gestionar precios, disponibilidad, clientes y reportes.
+
+2. When (Cuándo):
+
+¿Cuándo sucede el problema?
+
+La problemática ocurre en los procesos diarios de gestión hotelera: cuando se realizan reservas, check-ins, cancelaciones o solicitudes de room service. En esos momentos la falta de un sistema centralizado provoca retrasos y errores.
+
+¿Cuándo utiliza el cliente el producto?
+
+Los administradores lo utilizan todo el tiempo: en la operación diaria, generación de reportes y gestión de negocio.
+
+3. Where (dónde):
+
+¿Dónde está el cliente cuando usa el producto?
+
+El administrador lo usa en el hostal/hotel o de manera remota gracias a la plataforma web.
+
+¿A dónde se dirige?
+
+El administrador busca disfrutar de una experiencia ágil y personalizada.
+
+¿Dónde surge el problema?
+
+En la falta de digitalización de hoteles, que genera ineficiencia y desventaja frente a grandes cadenas que ya poseen sistemas integrados de gestión.
+
+4. Who (quién):
+
+¿Quiénes están involucrados?
+
+- Administradores/propietarios: gestionan operaciones, precios, reportes y personal.
+
+- Huéspedes: reservan habitaciones y solicitan servicios.
+
+- Desarrolladores: crean y mantienen la plataforma.
+
+¿A quiénes le sucede el problema?
+
+A los administradores, que pierden tiempo e ingresos por falta de herramientas modernas.
+
+¿Quién lo utilizará?
+Administradores (panel de gestion).
+
+5. Why (por qué):
+
+Hostel Manager busca digitalizar y profesionalizar la gestión de hostales y hoteles, ofreciendo una herramienta escalable y accesible que permita competir con grandes cadenas.
+
+¿Cuál es la causa del problema?
+
+La raíz está en la falta de plataformas centralizadas, accesibles y adaptadas a este tipo de negocios. Los sistemas existentes son costosos o demasiado complejos, lo que obliga a los hostales y hoteles a depender de procesos manuales que afectan su productividad y satisfacción del cliente.
+
+The 2 “H”s
+
+1. How(cómo):
+
+¿En qué condiciones los clientes usan nuestro producto?
+
+Los administradores lo usan en tiempo real como herramienta centralizada para controlar reservas, coordinar servicios adicionales y generar reportes de gestión.
+
+¿Cómo nos conocieron los compradores?
+
+Mediante estrategias de marketing digital, especialmente mediante campañas en redes sociales y anuncios en buscadores como Google Ads.
+
+¿Qué llevó a la persona a llegar a esta situación?
+
+- Frustración con métodos manuales.
+- Necesidad de optimizar ingresos y procesos.
+- Expectativas creciente de los huéspedes respecto a servicios digitales.
+
+2. How much(cuánto): 
+
+La plataforma funcionará bajo un modelo de suscripción mensual accesible para hostales y hoteles, con planes escalables según el número de habitaciones o usuarios administradores registrados. Este esquema permite a los negocios pagar únicamente por lo que utilizan, manteniendo los costos bajo control.
 
 
 ### [1.2.2 Lean UX Process](#lean-ux-process)
