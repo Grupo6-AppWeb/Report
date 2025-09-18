@@ -1,3 +1,123 @@
+<table style="text-align: center; width: 100%;">
+  <thead>
+    <tr>
+      <th rowspan="2">Tareas</th>
+      <th colspan="2">Usuarios Finales (Consumidores)</th>
+      <th colspan="2">Productores (Pequeños/Medianos)</th>
+    </tr>
+    <tr>
+      <th>Frecuencia</th>
+      <th>Importancia</th>
+      <th>Frecuencia</th>
+      <th>Importancia</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Escanear código QR en el empaque para ver historia del producto</td>
+      <td>Often</td>
+      <td>High</td>
+      <td>Rarely</td>
+      <td>Low</td>
+    </tr>
+    <tr>
+      <td>Verificar certificaciones y sellos (orgánico, comercio justo, etc.)</td>
+      <td>Often</td>
+      <td>High</td>
+      <td>Sometimes</td>
+      <td>High</td>
+    </tr>
+    <tr>
+      <td>Consultar perfil del productor (origen, prácticas, fotos)</td>
+      <td>Sometimes</td>
+      <td>Medium</td>
+      <td>Rarely</td>
+      <td>Medium</td>
+    </tr>
+    <tr>
+      <td>Comparar productos por trazabilidad antes de comprar</td>
+      <td>Often</td>
+      <td>High</td>
+      <td>Never</td>
+      <td>Low</td>
+    </tr>
+    <tr>
+      <td>Reportar una incidencia (producto en mal estado, etiquetado)</td>
+      <td>Rarely</td>
+      <td>High</td>
+      <td>Sometimes</td>
+      <td>High</td>
+    </tr>
+    <tr>
+      <td>Guardar/seguir productores o lotes preferidos</td>
+      <td>Sometimes</td>
+      <td>Medium</td>
+      <td>Sometimes</td>
+      <td>Medium</td>
+    </tr>
+    <tr>
+      <td>Registrar eventos del lote (cosecha, procesamiento, envío)</td>
+      <td>Never</td>
+      <td>Low</td>
+      <td>Always</td>
+      <td>High</td>
+    </tr>
+    <tr>
+      <td>Generar/pegar/emitir etiquetas QR o identificación de lote</td>
+      <td>Never</td>
+      <td>Low</td>
+      <td>Often</td>
+      <td>High</td>
+    </tr>
+    <tr>
+      <td>Monitorear estado de inventario y lotes</td>
+      <td>Never</td>
+      <td>Low</td>
+      <td>Often</td>
+      <td>High</td>
+    </tr>
+    <tr>
+      <td>Recibir alertas y avisos (recalls, calidad, demanda)</td>
+      <td>Rarely</td>
+      <td>High</td>
+      <td>Sometimes</td>
+      <td>High</td>
+    </tr>
+    <tr>
+      <td>Consultar estadísticas/ventas y precios de mercado</td>
+      <td>Never</td>
+      <td>Low</td>
+      <td>Sometimes</td>
+      <td>Medium</td>
+    </tr>
+    <tr>
+      <td>Integrar documentación externa (certificados, análisis)</td>
+      <td>Never</td>
+      <td>Low</td>
+      <td>Sometimes</td>
+      <td>High</td>
+    </tr>
+    <tr>
+      <td>Compartir la historia del producto en redes (dar social proof)</td>
+      <td>Sometimes</td>
+      <td>Medium</td>
+      <td>Rarely</td>
+      <td>Low</td>
+    </tr>
+  </tbody>
+</table>
+
+
+
+
+
+
+
+
+
+
+
+
 <div align="center">
     <h1> Universidad Peruana de Ciencias Aplicadas </h1>
 
