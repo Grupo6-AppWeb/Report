@@ -14,6 +14,103 @@
   </thead>
   <tbody>
     <tr>
+      <td>Escanear código QR/NFC para acceder a la historia del producto</td>
+      <td>Often</td>
+      <td>High</td>
+      <td>Rarely</td>
+      <td>Low</td>
+    </tr>
+    <tr>
+      <td>Visualizar mapa con la ruta logística del producto</td>
+      <td>Often</td>
+      <td>High</td>
+      <td>Rarely</td>
+      <td>Low</td>
+    </tr>
+    <tr>
+      <td>Ver certificados y documentación adjunta (orgánico, comercio justo, análisis)</td>
+      <td>Often</td>
+      <td>High</td>
+      <td>Sometimes</td>
+      <td>High</td>
+    </tr>
+    <tr>
+      <td>Consultar perfil del productor (origen, prácticas, fechas clave)</td>
+      <td>Sometimes</td>
+      <td>Medium</td>
+      <td>Rarely</td>
+      <td>Medium</td>
+    </tr>
+    <tr>
+      <td>Registrar eventos del lote (cosecha, transporte, procesamiento, empaque)</td>
+      <td>Never</td>
+      <td>Low</td>
+      <td>Always</td>
+      <td>High</td>
+    </tr>
+    <tr>
+      <td>Generar/emitir etiquetas QR o identificadores por lote</td>
+      <td>Never</td>
+      <td>Low</td>
+      <td>Often</td>
+      <td>High</td>
+    </tr>
+    <tr>
+      <td>Integrar datos externos (certificados, análisis de laboratorio, sensores IoT)</td>
+      <td>Never</td>
+      <td>Low</td>
+      <td>Sometimes</td>
+      <td>High</td>
+    </tr>
+    <tr>
+      <td>Acceder a los registros del propio lote para control/gestión</td>
+      <td>Never</td>
+      <td>Low</td>
+      <td>Often</td>
+      <td>High</td>
+    </tr>
+    <tr>
+      <td>Interoperar / sincronizar datos con sistemas existentes (ERP, certificadoras)</td>
+      <td>Never</td>
+      <td>Low</td>
+      <td>Sometimes</td>
+      <td>Medium</td>
+    </tr>
+    <tr>
+      <td>Tomar decisión de compra basada en la información de trazabilidad</td>
+      <td>Often</td>
+      <td>High</td>
+      <td>Never</td>
+      <td>Low</td>
+    </tr>
+  </tbody>
+</table>
+
+
+
+
+
+
+
+
+
+
+<table style="text-align: center; width: 100%;">
+  <thead>
+    <tr>
+      <th rowspan="2">Tareas</th>
+      <th colspan="2">Usuarios Finales (Consumidores)</th>
+      <th colspan="2">Productores (Pequeños/Medianos)</th>
+    </tr>
+    <tr>
+      <th>Frecuencia</th>
+      <th>Importancia</th>
+      <th>Frecuencia</th>
+      <th>Importancia</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
       <td>Escanear código QR en el empaque para ver historia del producto</td>
       <td>Often</td>
       <td>High</td>
